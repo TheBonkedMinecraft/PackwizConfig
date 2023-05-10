@@ -1,0 +1,13 @@
+name = "EightsEconomyP"
+filename = "EightsEconomyP-1.19-FABRIC-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "339d34332544642186bf32dbc9a5fd0f36b3d86d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4520933
+project-id = 559967

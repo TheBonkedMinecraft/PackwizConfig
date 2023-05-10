@@ -1,0 +1,9 @@
+name = "Enderscape"
+filename = "enderscape-0.3.4-1.19.jar"
+side = "both"
+
+[download]
+url = "https://tbm-server.vercel.app/jar/enderscape-0.3.4-1.19.jar"
+
+hash-format = "sha256"
+hash = "f738fa5cc45e8bd39241ca39c1a4f608296e52a312e3f49a2eaffa72bfa77f23"

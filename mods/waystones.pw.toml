@@ -1,0 +1,9 @@
+name = "Fabric Waystones"
+filename = "wraith-waystones-3.0.7+mc1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://tbm-server.vercel.app/jar/wraith-waystones-3.0.7+mc1.19.2.jar"
+
+hash-format = "sha256"
+hash = "404a1bd0a8130b4e7e0ee9f0ab2f4fe4fabe8f3d26d4c725ec76af5f00dc3067"

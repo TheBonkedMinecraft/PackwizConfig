@@ -1,0 +1,9 @@
+name = "BetterEnd"
+filename = "better-end-2.1.5.jar"
+side = "both"
+
+[download]
+url = "https://tbm-server.vercel.app/jar/better-end-2.1.5.jar"
+
+hash-format = "sha256"
+hash = "34bb240e1ec79c73890b70888972b043d88b5040506a5f5cf62f2ddb2cf39ddb"

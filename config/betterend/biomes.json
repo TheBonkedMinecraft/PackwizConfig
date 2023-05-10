@@ -1,0 +1,79 @@
+{
+  "betterend": {
+    "foggy_mushroomland": {
+      "enabled [default: true]": false
+    },
+    "chorus_forest": {
+      "enabled [default: true]": false
+    },
+    "dust_wastelands": {
+      "enabled [default: true]": false
+    },
+    "megalake": {
+      "enabled [default: true]": false
+    },
+    "megalake_grove": {
+      "enabled [default: true]": false
+    },
+    "crystal_mountains": {
+      "enabled [default: true]": false
+    },
+    "painted_mountains": {
+      "enabled [default: true]": false
+    },
+    "shadow_forest": {
+      "enabled [default: true]": false
+    },
+    "amber_land": {
+      "enabled [default: true]": false
+    },
+    "blossoming_spires": {
+      "enabled [default: true]": false
+    },
+    "sulphur_springs": {
+      "enabled [default: true]": false
+    },
+    "umbrella_jungle": {
+      "enabled [default: true]": false
+    },
+    "glowing_grasslands": {
+      "enabled [default: true]": false
+    },
+    "dragon_graveyards": {
+      "enabled [default: true]": false
+    },
+    "dry_shrubland": {
+      "enabled [default: true]": false
+    },
+    "lantern_woods": {
+      "enabled [default: true]": false
+    },
+    "neon_oasis": {
+      "enabled [default: true]": false
+    },
+    "umbra_valley": {
+      "enabled [default: true]": false
+    },
+    "ice_starfield": {
+      "enabled [default: true]": false
+    },
+    "empty_end_cave": {
+      "enabled [default: true]": false
+    },
+    "empty_smaragdant_cave": {
+      "enabled [default: true]": false
+    },
+    "lush_smaragdant_cave": {
+      "enabled [default: true]": false
+    },
+    "empty_aurora_cave": {
+      "enabled [default: true]": false
+    },
+    "lush_aurora_cave": {
+      "enabled [default: true]": false
+    },
+    "jade_cave": {
+      "enabled [default: true]": false
+    }
+  }
+}

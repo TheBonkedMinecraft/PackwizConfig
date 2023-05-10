@@ -1,0 +1,5 @@
+{
+  trades_by_profession: {},
+  visible: false,
+  wandering_trader_trades: {},
+}

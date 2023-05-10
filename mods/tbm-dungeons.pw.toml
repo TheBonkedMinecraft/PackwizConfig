@@ -1,0 +1,9 @@
+name = "TBMDungeons"
+filename = "dungeons-0.1-ALPHA.jar"
+side = "both"
+
+[download]
+url = "https://tbm-server.vercel.app/jar/dungeons-0.1-ALPHA.jar"
+
+hash-format = "sha256"
+hash = "4e63fa36b6a8eb573b8cffededd572cb83c8c235a26cfd8bbef5df6444807717"

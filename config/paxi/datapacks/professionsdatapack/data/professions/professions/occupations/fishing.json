@@ -1,0 +1,57 @@
+{
+  "type": "professions:default",
+  "actions": [
+    {
+      "action": "professions:catch_fish",
+      "conditions": [],
+      "items": [
+        "minecraft:cod",
+        "minecraft:salmon",
+        "minecraft:tropical_fish",
+        "minecraft:pufferfish"
+      ],
+      "rewards": [
+        {
+          "amount": 250,
+          "currency": "numismatic-overhaul:currency",
+          "reward": "professions:payment"
+        },
+        {
+          "amount": 250,
+          "reward": "professions:occupation_exp"
+        }
+      ]
+    }
+  ],
+  "color": "#0A91C7",
+  "description": ["Earn money and experience", "by fishing."],
+  "descriptionColor": "#FFFFFF",
+  "displayName": "Fishing",
+  "experienceSclEquation": "1000*1.03706264^(lvl-1)",
+  "incomeSclEquation": "base",
+  "maxLevel": 100,
+  "modifiers": {
+    "milestones": [],
+    "perks": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "increaseBy": 0.2,
+        "level": 1,
+        "perk": "professions:scaling_attribute"
+      },
+      {
+        "attribute": "minecraft:generic.attack_damage",
+        "increaseBy": 0.05,
+        "level": 10,
+        "perk": "professions:scaling_attribute"
+      },
+      {
+        "attribute": "minecraft:generic.luck",
+        "increaseBy": 0.05,
+        "level": 20,
+        "perk": "professions:scaling_attribute"
+      }
+    ]
+  },
+  "unlocks": []
+}

@@ -1,0 +1,9 @@
+name = "BetterNether"
+filename = "better-nether-7.1.4.jar"
+side = "both"
+
+[download]
+url = "https://tbm-server.vercel.app/jar/better-nether-7.1.4.jar"
+
+hash-format = "sha256"
+hash = "27bea23246551ea92fb9f742037919ef0e5a8dd8e390c217ab8bfbae00bada33"

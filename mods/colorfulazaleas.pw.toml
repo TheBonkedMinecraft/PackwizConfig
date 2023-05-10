@@ -1,0 +1,13 @@
+name = "Colorful Azaleas"
+filename = "ColorfulAzaleas-fabric-1.19.2-2.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5c4d8ef9f5eef0cdcede69ce0a1fcf39baea65bf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4526431
+project-id = 602536

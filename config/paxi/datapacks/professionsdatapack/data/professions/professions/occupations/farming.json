@@ -1,0 +1,165 @@
+{
+  "type": "professions:default",
+  "actions": [
+    {
+      "action": "professions:break_block",
+      "blocks": ["#minecraft:crops"],
+      "conditions": [
+        {
+          "condition": "professions:crop_fully_grown"
+        }
+      ],
+      "rewards": [
+        {
+          "amount": 10,
+          "reward": "professions:occupation_exp"
+        },
+        {
+          "amount": 10,
+          "currency": "numismatic-overhaul:currency",
+          "reward": "professions:payment"
+        }
+      ]
+    },
+    {
+      "action": "professions:break_block",
+      "blocks": ["minecraft:cocoa"],
+      "conditions": [
+        {
+          "condition": "professions:block_state_matches_any",
+          "properties": {
+            "age": "2"
+          }
+        }
+      ],
+      "rewards": [
+        {
+          "amount": 10,
+          "reward": "professions:occupation_exp"
+        },
+        {
+          "amount": 10,
+          "currency": "numismatic-overhaul:currency",
+          "reward": "professions:payment"
+        }
+      ]
+    },
+    {
+      "action": "professions:break_block",
+      "blocks": ["minecraft:sugar_cane"],
+      "conditions": [],
+      "rewards": [
+        {
+          "amount": 8,
+          "reward": "professions:occupation_exp"
+        },
+        {
+          "amount": 8,
+          "currency": "numismatic-overhaul:currency",
+          "reward": "professions:payment"
+        }
+      ]
+    },
+    {
+      "action": "professions:break_block",
+      "blocks": ["minecraft:melon", "minecraft:pumpkin"],
+      "conditions": [],
+      "rewards": [
+        {
+          "amount": 13,
+          "reward": "professions:occupation_exp"
+        },
+        {
+          "amount": 13,
+          "currency": "numismatic-overhaul:currency",
+          "reward": "professions:payment"
+        }
+      ]
+    },
+    {
+      "action": "professions:break_block",
+      "conditions": [],
+      "blocks": ["#farmersdelight:wild_crops"],
+      "rewards": [
+        {
+          "reward": "professions:payment",
+          "amount": 5,
+          "currency": "numismatic-overhaul:currency"
+        },
+        {
+          "reward": "professions:occupation_exp",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "action": "professions:place_block",
+      "blocks": ["#minecraft:crops", "minecraft:cocoa"],
+      "conditions": [],
+      "rewards": [
+        {
+          "amount": 9,
+          "currency": "numismatic-overhaul:currency",
+          "reward": "professions:payment"
+        },
+        {
+          "amount": 9,
+          "reward": "professions:occupation_exp"
+        }
+      ]
+    },
+    {
+      "action": "professions:breed",
+      "conditions": [],
+      "entities": [
+        "minecraft:pig",
+        "minecraft:cow",
+        "minecraft:mooshroom",
+        "minecraft:sheep",
+        "minecraft:rabbit",
+        "minecraft:llama",
+        "minecraft:turtle",
+        "minecraft:ocelot",
+        "minecraft:wolf",
+        "minecraft:chicken",
+        "minecraft:horse"
+      ],
+      "rewards": [
+        {
+          "amount": 50,
+          "reward": "professions:occupation_exp"
+        },
+        {
+          "amount": 50,
+          "currency": "numismatic-overhaul:currency",
+          "reward": "professions:payment"
+        }
+      ]
+    }
+  ],
+  "color": "#107D0E",
+  "description": ["Earn money and experience", "by farming."],
+  "descriptionColor": "#FFFFFF",
+  "displayName": "Farming",
+  "experienceSclEquation": "1000*1.03706264^(lvl-1)",
+  "incomeSclEquation": "base",
+  "maxLevel": 100,
+  "modifiers": {
+    "milestones": [],
+    "perks": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "increaseBy": 0.2,
+        "level": 1,
+        "perk": "professions:scaling_attribute"
+      },
+      {
+        "attribute": "minecraft:generic.movement_speed",
+        "increaseBy": 0.001,
+        "level": 10,
+        "perk": "professions:scaling_attribute"
+      }
+    ]
+  },
+  "unlocks": []
+}

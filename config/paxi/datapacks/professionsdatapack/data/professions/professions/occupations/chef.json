@@ -1,0 +1,676 @@
+{
+  "type": "professions:default",
+  "actions": [
+    {
+      "action": "professions:craft_item",
+      "conditions": [],
+      "items": [
+        "croptopia:cooking_pot",
+        "croptopia:food_press",
+        "croptopia:frying_pan"
+      ],
+      "rewards": [
+        {
+          "reward": "professions:payment",
+          "amount": 20,
+          "currency": "numismatic-overhaul:currency"
+        },
+        {
+          "reward": "professions:occupation_exp",
+          "amount": 40
+        }
+      ]
+    },
+    {
+      "action": "professions:craft_item",
+      "conditions": [],
+      "items": [
+        "croptopia:olive_oil",
+        "croptopia:cheese",
+        "croptopia:flour",
+        "croptopia:butter",
+        "croptopia:noodle",
+        "croptopia:tofu",
+        "croptopia:tortilla",
+        "croptopia:soy_sauce",
+        "croptopia:dough",
+        "croptopia:ravioli",
+        "croptopia:artichoke_dip",
+        "croptopia:coffee",
+        "croptopia:lemonade",
+        "croptopia:limeade",
+        "croptopia:soy_milk",
+        "croptopia:doughnut",
+        "croptopia:oatmeal",
+        "croptopia:yoghurt",
+        "croptopia:saucy_chips",
+        "croptopia:scrambled_eggs",
+        "croptopia:buttered_toast",
+        "croptopia:toast_with_jam",
+        "croptopia:candy_corn",
+        "croptopia:snicker_doodle",
+        "croptopia:candied_nuts",
+        "croptopia:crema",
+        "croptopia:chimichanga",
+        "croptopia:corn_husk",
+        "croptopia:whipping_cream",
+        "croptopia:tea",
+        "croptopia:kiwi_sorbet",
+        "croptopia:peanut_butter",
+        "croptopia:peanut_butter_with_celery",
+        "croptopia:steamed_broccoli",
+        "croptopia:steamed_green_beans"
+      ],
+      "rewards": [
+        {
+          "reward": "professions:payment",
+          "amount": 5,
+          "currency": "numismatic-overhaul:currency"
+        },
+        {
+          "reward": "professions:occupation_exp",
+          "amount": 8
+        }
+      ]
+    },
+    {
+      "action": "professions:craft_item",
+      "conditions": [],
+      "items": [
+        "croptopia:chocolate",
+        "croptopia:salsa",
+        "croptopia:pepperoni",
+        "croptopia:kale_chips",
+        "croptopia:potato_chips",
+        "croptopia:steamed_rice",
+        "croptopia:french_fries",
+        "croptopia:sweet_potato_fries",
+        "croptopia:cucumber_salad",
+        "croptopia:leafy_salad",
+        "croptopia:leek_soup",
+        "croptopia:grilled_cheese",
+        "croptopia:almond_brittle",
+        "croptopia:raisin_oatmeal_cookie",
+        "croptopia:nutty_cookie",
+        "croptopia:burrito",
+        "croptopia:ajvar_toast",
+        "croptopia:avocado_toast",
+        "croptopia:cheesy_asparagus",
+        "croptopia:corn_bread",
+        "minecraft:bread",
+        "croptopia:candied_kumquats",
+        "croptopia:steamed_crab",
+        "croptopia:hashed_brown"
+      ],
+      "rewards": [
+        {
+          "reward": "professions:payment",
+          "amount": 10,
+          "currency": "numismatic-overhaul:currency"
+        },
+        {
+          "reward": "professions:occupation_exp",
+          "amount": 10
+        }
+      ]
+    },
+    {
+      "action": "professions:craft_item",
+      "conditions": [],
+      "items": [
+        "croptopia:hamburger",
+        "croptopia:sushi",
+        "croptopia:egg_roll",
+        "croptopia:tostada",
+        "croptopia:potato_soup",
+        "croptopia:roasted_pumpkin_seeds",
+        "croptopia:roasted_sunflower_seeds",
+        "croptopia:mashed_potatoes"
+      ],
+      "rewards": [
+        {
+          "reward": "professions:payment",
+          "amount": 14,
+          "currency": "numismatic-overhaul:currency"
+        },
+        {
+          "reward": "professions:occupation_exp",
+          "amount": 14
+        }
+      ]
+    },
+    {
+      "action": "professions:craft_item",
+      "conditions": [],
+      "items": [
+        "#c:juices",
+        "croptopia:beer",
+        "croptopia:wine",
+        "croptopia:mead",
+        "croptopia:rum",
+        "farmersdelight:melon_juice",
+        "farmersdelight:melon_popsicle",
+        "croptopia:onion_rings",
+        "croptopia:caesar_salad",
+        "croptopia:pork_and_beans",
+        "croptopia:trail_mix",
+        "croptopia:protein_bar",
+        "croptopia:nougat",
+        "croptopia:ham_sandwich",
+        "croptopia:peanut_butter_and_jam",
+        "croptopia:cheeseburger",
+        "croptopia:pizza",
+        "croptopia:chicken_and_dumplings",
+        "croptopia:tofu_and_dumplings",
+        "croptopia:spaghetti_squash",
+        "croptopia:chicken_and_rice",
+        "croptopia:yam_jam",
+        "croptopia:banana_nut_bread",
+        "croptopia:carnitas",
+        "croptopia:enchilada",
+        "croptopia:churros",
+        "croptopia:quesadilla",
+        "croptopia:ajvar",
+        "croptopia:beef_stew",
+        "croptopia:beef_stir_fry",
+        "croptopia:buttered_green_beans",
+        "croptopia:lemon_coconut_bar",
+        "croptopia:stir_fry",
+        "croptopia:toast_sandwich",
+        "croptopia:pumpkin_soup",
+        "croptopia:meringue",
+        "croptopia:deep_fried_shrimp",
+        "croptopia:tuna_roll",
+        "croptopia:crab_legs",
+        "croptopia:steamed_clams",
+        "croptopia:grilled_oysters",
+        "croptopia:anchovy_pizza",
+        "croptopia:dauphine_potatoes",
+        "croptopia:macaron"
+      ],
+      "rewards": [
+        {
+          "reward": "professions:payment",
+          "amount": 20,
+          "currency": "numismatic-overhaul:currency"
+        },
+        {
+          "reward": "professions:occupation_exp",
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "action": "professions:craft_item",
+      "conditions": [],
+      "items": ["#c:jams"],
+      "rewards": [
+        {
+          "reward": "professions:payment",
+          "amount": 20,
+          "currency": "numismatic-overhaul:currency"
+        },
+        {
+          "reward": "professions:occupation_exp",
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "action": "professions:craft_item",
+      "conditions": [],
+      "items": [
+        "croptopia:kale_smoothie",
+        "croptopia:fruit_smoothie",
+        "croptopia:chocolate_milkshake",
+        "croptopia:pumpkin_spice_latte",
+        "croptopia:cheese_pizza",
+        "croptopia:lemon_chicken",
+        "croptopia:fried_chicken",
+        "croptopia:chicken_and_noodles",
+        "croptopia:taco",
+        "croptopia:cashew_chicken",
+        "croptopia:banana_cream_pie",
+        "croptopia:rum_raisin_ice_cream",
+        "croptopia:brownies",
+        "croptopia:horchata",
+        "croptopia:fajitas",
+        "croptopia:eton_mess",
+        "croptopia:roasted_asparagus",
+        "croptopia:roasted_radishes",
+        "croptopia:roasted_squash",
+        "croptopia:roasted_turnips",
+        "croptopia:fried_calamari",
+        "croptopia:baked_crepes",
+        "croptopia:croque_monsieur",
+        "croptopia:quiche"
+      ],
+      "rewards": [
+        {
+          "reward": "professions:payment",
+          "amount": 35,
+          "currency": "numismatic-overhaul:currency"
+        },
+        {
+          "reward": "professions:occupation_exp",
+          "amount": 40
+        }
+      ]
+    },
+    {
+      "action": "professions:craft_item",
+      "conditions": [],
+      "items": [
+        "croptopia:mango_ice_cream",
+        "croptopia:chocolate_ice_cream",
+        "croptopia:pecan_ice_cream",
+        "croptopia:strawberry_ice_cream",
+        "croptopia:vanilla_ice_cream",
+        "croptopia:chili_relleno",
+        "croptopia:fish_and_chips",
+        "croptopia:eggplant_parmesan",
+        "croptopia:grilled_eggplant",
+        "croptopia:sweet_crepes",
+        "croptopia:croque_madame"
+      ],
+      "rewards": [
+        {
+          "reward": "professions:occupation_exp",
+          "amount": 40
+        },
+        {
+          "reward": "professions:payment",
+          "amount": 40,
+          "currency": "numismatic-overhaul:currency"
+        }
+      ]
+    },
+    {
+      "action": "professions:craft_item",
+      "conditions": [],
+      "items": [
+        "croptopia:apple_pie",
+        "croptopia:cherry_pie",
+        "croptopia:pecan_pie",
+        "croptopia:rhubarb_pie",
+        "farmersdelight:roasted_mutton_chops",
+        "farmersdelight:steak_and_potatoes",
+        "farmersdelight:grilled_salmon",
+        "croptopia:tamales",
+        "croptopia:stuffed_poblanos",
+        "croptopia:cornish_pasty",
+        "croptopia:scones",
+        "croptopia:figgy_pudding",
+        "croptopia:treacle_tart",
+        "croptopia:fruit_cake",
+        "croptopia:rhubarb_crisp",
+        "croptopia:stuffed_artichoke",
+        "croptopia:cabbage_roll",
+        "croptopia:borscht",
+        "croptopia:goulash",
+        "croptopia:beetroot_salad",
+        "croptopia:cinnamon_roll"
+      ],
+      "rewards": [
+        {
+          "reward": "professions:occupation_exp",
+          "amount": 60
+        },
+        {
+          "reward": "professions:payment",
+          "amount": 60,
+          "currency": "numismatic-overhaul:currency"
+        }
+      ]
+    },
+    {
+      "action": "professions:craft_item",
+      "conditions": [],
+      "items": [
+        "farmersdelight:roast_chicken_block",
+        "farmersdelight:honey_glazed_ham_block",
+        "croptopia:supreme_pizza",
+        "croptopia:pineapple_pepperoni_pizza",
+        "croptopia:tres_leche_cake",
+        "croptopia:trifle",
+        "croptopia:sticky_toffee_pudding",
+        "croptopia:pumpkin_bars"
+      ],
+      "rewards": [
+        {
+          "reward": "professions:occupation_exp",
+          "amount": 80
+        },
+        {
+          "reward": "professions:payment",
+          "amount": 80,
+          "currency": "numismatic-overhaul:currency"
+        }
+      ]
+    },
+    {
+      "action": "professions:craft_item",
+      "conditions": [],
+      "items": [
+        "farmersdelight:shepherds_pie_block",
+        "croptopia:shepherds_pie",
+        "croptopia:beef_wellington",
+        "croptopia:ratatouille",
+        "croptopia:the_big_breakfast"
+      ],
+      "rewards": [
+        {
+          "reward": "professions:occupation_exp",
+          "amount": 100
+        },
+        {
+          "reward": "professions:payment",
+          "amount": 100,
+          "currency": "numismatic-overhaul:currency"
+        }
+      ]
+    },
+    {
+      "action": "professions:craft_item",
+      "conditions": [],
+      "items": [
+        "farmersdelight:fruit_salad",
+        "farmersdelight:mixed_salad",
+        "farmersdelight:nether_salad",
+        "farmersdelight:stuffed_potato",
+        "croptopia:fruit_salad",
+        "croptopia:veggie_salad",
+        "croptopia:nether_wart_stew"
+      ],
+      "rewards": [
+        {
+          "reward": "professions:payment",
+          "amount": 23,
+          "currency": "numismatic-overhaul:currency"
+        },
+        {
+          "reward": "professions:occupation_exp",
+          "amount": 23
+        }
+      ]
+    },
+    {
+      "action": "professions:craft_item",
+      "conditions": [],
+      "items": [
+        "farmersdelight:barbecue_stick",
+        "farmersdelight:chicken_sandwich",
+        "farmersdelight:bacon_sandwich",
+        "croptopia:blt"
+      ],
+      "rewards": [
+        {
+          "reward": "professions:payment",
+          "amount": 28,
+          "currency": "numismatic-overhaul:currency"
+        },
+        {
+          "reward": "professions:occupation_exp",
+          "amount": 30
+        }
+      ]
+    },
+    {
+      "action": "professions:craft_item",
+      "conditions": [],
+      "items": ["farmersdelight:egg_sandwich", "farmersdelight:bacon_and_eggs"],
+      "rewards": [
+        {
+          "reward": "professions:payment",
+          "amount": 15,
+          "currency": "numismatic-overhaul:currency"
+        },
+        {
+          "reward": "professions:occupation_exp",
+          "amount": 15
+        }
+      ]
+    },
+    {
+      "action": "professions:craft_item",
+      "conditions": [],
+      "items": [
+        "farmersdelight:hamburger",
+        "farmersdelight:mutton_wrap",
+        "farmersdelight:pasta_with_meatballs",
+        "farmersdelight:pasta_with_mutton_chop",
+        "farmersdelight:vegetable_noodles",
+        "croptopia:tofuburger"
+      ],
+      "rewards": [
+        {
+          "reward": "professions:payment",
+          "amount": 32,
+          "currency": "numismatic-overhaul:currency"
+        },
+        {
+          "reward": "professions:occupation_exp",
+          "amount": 32
+        }
+      ]
+    },
+    {
+      "action": "professions:on_item_smelted",
+      "conditions": [],
+      "items": [
+        "croptopia:baked_beans",
+        "croptopia:baked_sweet_potato",
+        "croptopia:baked_yam",
+        "croptopia:caramel",
+        "croptopia:molasses",
+        "croptopia:popcorn",
+        "croptopia:raisins",
+        "croptopia:roasted_nuts",
+        "croptopia:refried_beans"
+      ],
+      "rewards": [
+        {
+          "reward": "professions:payment",
+          "amount": 20,
+          "currency": "numismatic-overhaul:currency"
+        },
+        {
+          "reward": "professions:occupation_exp",
+          "amount": 20
+        }
+      ]
+    },
+    {
+      "action": "professions:on_item_smelted",
+      "conditions": [],
+      "items": [
+        "croptopia:cooked_anchovy",
+        "croptopia:cooked_bacon",
+        "croptopia:cooked_calamari",
+        "croptopia:cooked_shrimp",
+        "croptopia:cooked_tuna",
+        "minecraft:cooked_cod",
+        "minecraft:cooked_salmon",
+        "croptopia:toast"
+      ],
+      "rewards": [
+        {
+          "reward": "professions:payment",
+          "amount": 40,
+          "currency": "numismatic-overhaul:currency"
+        },
+        {
+          "reward": "professions:occupation_exp",
+          "amount": 40
+        }
+      ]
+    },
+    {
+      "action": "professions:on_item_smelted",
+      "conditions": [],
+      "items": ["farmersdelight:fried_egg"],
+      "rewards": [
+        {
+          "reward": "professions:occupation_exp",
+          "amount": 20
+        },
+        {
+          "reward": "professions:payment",
+          "amount": 30,
+          "currency": "numismatic-overhaul:currency"
+        }
+      ]
+    },
+    {
+      "action": "professions:on_item_smelted",
+      "conditions": [],
+      "items": [
+        "farmersdelight:beef_patty",
+        "farmersdelight:cooked_chicken_cuts",
+        "farmersdelight:cooked_bacon",
+        "farmersdelight:cooked_cod_slice",
+        "farmersdelight:cooked_salmon_slice",
+        "farmersdelight:cooked_mutton_chops",
+        "farmersdelight:smoked_ham"
+      ],
+      "rewards": [
+        {
+          "reward": "professions:payment",
+          "amount": 5,
+          "currency": "numismatic-overhaul:currency"
+        },
+        {
+          "reward": "professions:occupation_exp",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "action": "professions:take_smelted_item",
+      "conditions": [],
+      "items": ["farmersdelight:stuffed_pumpkin_block"],
+      "rewards": [
+        {
+          "reward": "professions:occupation_exp",
+          "amount": 60
+        },
+        {
+          "reward": "professions:payment",
+          "amount": 60,
+          "currency": "numismatic-overhaul:currency"
+        }
+      ]
+    },
+    {
+      "action": "professions:take_smelted_item",
+      "conditions": [],
+      "items": ["farmersdelight:hot_cocoa", "farmersdelight:apple_cider"],
+      "rewards": [
+        {
+          "reward": "professions:payment",
+          "amount": 11,
+          "currency": "numismatic-overhaul:currency"
+        },
+        {
+          "reward": "professions:occupation_exp",
+          "amount": 12
+        }
+      ]
+    },
+    {
+      "action": "professions:take_smelted_item",
+      "conditions": [],
+      "items": [
+        "farmersdelight:tomato_sauce",
+        "farmersdelight:wheat_dough",
+        "farmersdelight:raw_pasta",
+        "farmersdelight:pie_crust",
+        "farmersdelight:sweet_berry_cookie",
+        "farmersdelight:honey_cookie",
+        "farmersdelight:cabbage_rolls",
+        "farmersdelight:cooked_rice"
+      ],
+      "rewards": [
+        {
+          "reward": "professions:payment",
+          "amount": 5,
+          "currency": "numismatic-overhaul:currency"
+        },
+        {
+          "reward": "professions:occupation_exp",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "action": "professions:take_smelted_item",
+      "conditions": [],
+      "items": [
+        "farmersdelight:dumplings",
+        "farmersdelight:beef_stew",
+        "farmersdelight:fish_stew",
+        "farmersdelight:fried_rice",
+        "farmersdelight:pumpkin_soup",
+        "farmersdelight:ratatouille"
+      ],
+      "rewards": [
+        {
+          "reward": "professions:payment",
+          "amount": 15,
+          "currency": "numismatic-overhaul:currency"
+        },
+        {
+          "reward": "professions:occupation_exp",
+          "amount": 15
+        }
+      ]
+    },
+    {
+      "action": "professions:take_smelted_item",
+      "conditions": [],
+      "items": [
+        "farmersdelight:chicken_soup",
+        "farmersdelight:vegetable_soup",
+        "farmersdelight:baked_cod_stew",
+        "farmersdelight:noodle_soup",
+        "farmersdelight:squid_ink_pasta"
+      ],
+      "rewards": [
+        {
+          "reward": "professions:payment",
+          "amount": 20,
+          "currency": "numismatic-overhaul:currency"
+        },
+        {
+          "reward": "professions:occupation_exp",
+          "amount": 20
+        }
+      ]
+    }
+  ],
+  "color": "#F2DE00",
+  "description": ["Earn money and experience", "by cooking food."],
+  "descriptionColor": "#FFFFFF",
+  "displayName": "Chef",
+  "experienceSclEquation": "1000*1.03706264^(lvl-1)",
+  "incomeSclEquation": "base",
+  "maxLevel": 100,
+  "modifiers": {
+    "milestones": [],
+    "perks": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "increaseBy": 0.4,
+        "level": 1,
+        "perk": "professions:scaling_attribute"
+      },
+      {
+        "attribute": "minecraft:generic.attack_damage",
+        "increaseBy": 0.05,
+        "level": 10,
+        "perk": "professions:scaling_attribute"
+      }
+    ]
+  },
+  "unlocks": []
+}

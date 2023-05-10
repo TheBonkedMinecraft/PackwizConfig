@@ -1,0 +1,202 @@
+{
+  "type": "professions:default",
+  "actions": [
+    {
+      "action": "professions:brew",
+      "conditions": [],
+      "items": ["minecraft:nether_wart"],
+      "rewards": [
+        {
+          "amount": 20,
+          "reward": "professions:occupation_exp"
+        },
+        {
+          "amount": 5,
+          "currency": "numismatic-overhaul:currency",
+          "reward": "professions:payment"
+        }
+      ]
+    },
+    {
+      "action": "professions:brew",
+      "conditions": [],
+      "items": ["minecraft:redstone", "minecraft:glowstone_dust"],
+      "rewards": [
+        {
+          "amount": 20,
+          "reward": "professions:occupation_exp"
+        },
+        {
+          "amount": 7,
+          "currency": "numismatic-overhaul:currency",
+          "reward": "professions:payment"
+        }
+      ]
+    },
+    {
+      "action": "professions:brew",
+      "conditions": [],
+      "items": ["minecraft:fermented_spider_eye"],
+      "rewards": [
+        {
+          "amount": 40,
+          "reward": "professions:occupation_exp"
+        },
+        {
+          "amount": 10,
+          "currency": "numismatic-overhaul:currency",
+          "reward": "professions:payment"
+        }
+      ]
+    },
+    {
+      "action": "professions:brew",
+      "conditions": [],
+      "items": ["minecraft:gunpowder"],
+      "rewards": [
+        {
+          "amount": 40,
+          "reward": "professions:occupation_exp"
+        },
+        {
+          "amount": 9,
+          "currency": "numismatic-overhaul:currency",
+          "reward": "professions:payment"
+        }
+      ]
+    },
+    {
+      "action": "professions:brew",
+      "conditions": [],
+      "items": ["minecraft:dragon_breath"],
+      "rewards": [
+        {
+          "amount": 60,
+          "reward": "professions:occupation_exp"
+        },
+        {
+          "amount": 10,
+          "currency": "numismatic-overhaul:currency",
+          "reward": "professions:payment"
+        }
+      ]
+    },
+    {
+      "action": "professions:brew",
+      "conditions": [],
+      "items": ["minecraft:sugar"],
+      "rewards": [
+        {
+          "amount": 5,
+          "reward": "professions:occupation_exp"
+        },
+        {
+          "amount": 3,
+          "currency": "numismatic-overhaul:currency",
+          "reward": "professions:payment"
+        }
+      ]
+    },
+    {
+      "action": "professions:brew",
+      "conditions": [],
+      "items": [
+        "minecraft:rabbit_foot",
+        "minecraft:turtle_helmet",
+        "minecraft:phantom_membrane"
+      ],
+      "rewards": [
+        {
+          "amount": 100,
+          "reward": "professions:occupation_exp"
+        },
+        {
+          "amount": 50,
+          "currency": "numismatic-overhaul:currency",
+          "reward": "professions:payment"
+        }
+      ]
+    },
+    {
+      "action": "professions:brew",
+      "conditions": [],
+      "items": ["minecraft:glistering_melon_slice"],
+      "rewards": [
+        {
+          "amount": 30,
+          "reward": "professions:occupation_exp"
+        },
+        {
+          "amount": 10,
+          "currency": "numismatic-overhaul:currency",
+          "reward": "professions:payment"
+        }
+      ]
+    },
+    {
+      "action": "professions:brew",
+      "conditions": [],
+      "items": [
+        "minecraft:spider_eye",
+        "minecraft:magma_cream",
+        "minecraft:blaze_powder"
+      ],
+      "rewards": [
+        {
+          "amount": 20,
+          "reward": "professions:occupation_exp"
+        },
+        {
+          "amount": 5,
+          "currency": "numismatic-overhaul:currency",
+          "reward": "professions:payment"
+        }
+      ]
+    },
+    {
+      "action": "professions:brew",
+      "conditions": [],
+      "items": [
+        "minecraft:pufferfish",
+        "minecraft:golden_carrot",
+        "minecraft:ghast_tear"
+      ],
+      "rewards": [
+        {
+          "amount": 50,
+          "reward": "professions:occupation_exp"
+        },
+        {
+          "amount": 20,
+          "currency": "numismatic-overhaul:currency",
+          "reward": "professions:payment"
+        }
+      ]
+    }
+  ],
+  "color": "#A100E0",
+  "description": ["Earn money and experience", "by brewing potions."],
+  "descriptionColor": "#FFFFFF",
+  "displayName": "Alchemy",
+  "experienceSclEquation": "1000*1.03706264^(lvl-1)",
+  "incomeSclEquation": "base",
+  "maxLevel": 100,
+  "modifiers": {
+    "milestones": [],
+    "perks": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "increaseBy": 0.2,
+        "level": 1,
+        "perk": "professions:scaling_attribute"
+      },
+      {
+        "attribute": "minecraft:generic.armor_toughness",
+        "increaseBy": 0.02,
+        "level": 10,
+        "perk": "professions:scaling_attribute"
+      }
+    ]
+  },
+  "unlocks": []
+}

@@ -1,0 +1,9 @@
+name = "BeaconOverhaul"
+filename = "BeaconOverhaul-1.7.3+1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://tbm-server.vercel.app/jar/BeaconOverhaul-1.7.3+1.19.2.jar"
+
+hash-format = "sha256"
+hash = "30e4a73cb3dcbfb260c26e94a1df28e2895a11952d2f8683d912c97284bf2ec4"

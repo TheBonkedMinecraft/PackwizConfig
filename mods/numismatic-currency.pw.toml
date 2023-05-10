@@ -1,0 +1,9 @@
+name = "NumismaticCurrency"
+filename = "NumismaticCurrency-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://tbm-server.vercel.app/jar/NumismaticCurrency-1.0.0.jar"
+
+hash-format = "sha256"
+hash = "dfc68d3a33bca6d7030e1e5ac2ed4e9e3c3f079bd877c6a3cdc2b008a6fb3e82"

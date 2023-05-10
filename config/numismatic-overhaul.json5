@@ -1,0 +1,27 @@
+{
+  // Whether villagers should use Numismatic currency for trading
+  enableVillagerTrading: false,
+  // Whether taxes from Minecraft Comes Alive: Reborn should be delivered as Numismatic currency
+  enableMcaCompatibility: false,
+  // Whether Numismatic currency should be injected into the loot tables of loot chests
+  generateCurrencyInChests: true,
+  // Where the purse in your inventory should be placed on the X axis
+  pursePositionX: 129,
+  // Where the purse in your inventory should be placed on the Y axis
+  pursePositionY: 20,
+  lootOptions: {
+    // Affects money gained from Dungeon and Mineshaft chests
+    desertMinLoot: 600,
+    // Affects money gained from Dungeon and Mineshaft chests
+    desertMaxLoot: 1500,
+    // Affects money gained from Dungeon and Mineshaft chests
+    dungeonMinLoot: 700,
+    // Affects money gained from Dungeon and Mineshaft chests
+    dungeonMaxLoot: 3000,
+    // Affects money gained from Bastion, Stronghold, Outpost and Buried Treasure chests
+    structureMinLoot: 2500,
+    structureMaxLoot: 6000,
+    strongholdLibraryMinLoot: 4000,
+    strongholdLibraryMaxLoot: 10000,
+  },
+}

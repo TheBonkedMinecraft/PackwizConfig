@@ -1,0 +1,129 @@
+{
+  "type": "professions:default",
+  "actions": [
+    {
+      "action": "professions:villager_trade",
+      "conditions": [],
+      "items": ["minecraft:emerald", "minecraft:diamond"],
+      "rewards": [
+        {
+          "amount": 70,
+          "currency": "numismatic-overhaul:currency",
+          "reward": "professions:payment"
+        },
+        {
+          "amount": 70,
+          "reward": "professions:occupation_exp"
+        }
+      ]
+    },
+    {
+      "action": "professions:villager_trade",
+      "conditions": [],
+      "items": ["minecraft:paper", "minecraft:rotten_flesh"],
+      "rewards": [
+        {
+          "amount": 3,
+          "currency": "numismatic-overhaul:currency",
+          "reward": "professions:payment"
+        },
+        {
+          "amount": 3,
+          "reward": "professions:occupation_exp"
+        }
+      ]
+    },
+    {
+      "action": "professions:villager_trade",
+      "conditions": [],
+      "items": ["minecraft:gold_ingot", "minecraft:iron_ingot"],
+      "rewards": [
+        {
+          "amount": 30,
+          "currency": "numismatic-overhaul:currency",
+          "reward": "professions:payment"
+        },
+        {
+          "amount": 30,
+          "reward": "professions:occupation_exp"
+        }
+      ]
+    },
+    {
+      "action": "professions:villager_trade",
+      "conditions": [],
+      "items": [
+        "minecraft:wheat",
+        "minecraft:carrot",
+        "minecraft:potato",
+        "minecraft:beetroot"
+      ],
+      "rewards": [
+        {
+          "amount": 20,
+          "currency": "numismatic-overhaul:currency",
+          "reward": "professions:payment"
+        },
+        {
+          "amount": 20,
+          "reward": "professions:occupation_exp"
+        }
+      ]
+    },
+    {
+      "action": "professions:villager_trade",
+      "conditions": [],
+      "items": [
+        "minecraft:tropical_fish",
+        "minecraft:salmon",
+        "minecraft:cod",
+        "minecraft:pufferfish"
+      ],
+      "rewards": [
+        {
+          "amount": 30,
+          "currency": "numismatic-overhaul:currency",
+          "reward": "professions:payment"
+        },
+        {
+          "amount": 30,
+          "reward": "professions:occupation_exp"
+        }
+      ]
+    }
+  ],
+  "color": "#2DCF08",
+  "description": [
+    "Earn money and experience",
+    "by trading items to villagers."
+  ],
+  "descriptionColor": "#FFFFFF",
+  "displayName": "Trading",
+  "experienceSclEquation": "1000*1.03706264^(lvl-1)",
+  "incomeSclEquation": "base",
+  "maxLevel": 100,
+  "modifiers": {
+    "milestones": [],
+    "perks": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "increaseBy": 0.2,
+        "level": 1,
+        "perk": "professions:scaling_attribute"
+      },
+      {
+        "attribute": "minecraft:generic.movement_speed",
+        "increaseBy": 0.001,
+        "level": 10,
+        "perk": "professions:scaling_attribute"
+      },
+      {
+        "attribute": "minecraft:generic.armor",
+        "increaseBy": 0.05,
+        "level": 20,
+        "perk": "professions:scaling_attribute"
+      }
+    ]
+  },
+  "unlocks": []
+}

@@ -1,0 +1,45 @@
+{
+	"numberOfRollsOnLootTable": {
+		"PHANTOM_SKIN": 0,
+		"PHANTOM_BONES": 0,
+		"OCELOT_PELT": 0,
+		"OCELOT_PELT_BLACK": 0,
+		"WOLF_PELT": 0,
+		"WOLF_PELT_BLACK": 0,
+		"FOX_PELT": 0,
+		"FOX_PELT_ARCTIC": 0,
+		"GOAT_PELT": 0,
+		"FROST_CRYSTAL": 0,
+		"EVOCATION_ROBE": 0,
+		"SKELETON_SKULL": 0,
+		"MYSTERY_GEMSTONE": 0
+	},
+	"dropBaseChance": {
+		"PHANTOM_SKIN": 0.0,
+		"PHANTOM_BONES": 0.0,
+		"OCELOT_PELT": 0.0,
+		"OCELOT_PELT_BLACK": 0.0,
+		"WOLF_PELT": 0.0,
+		"WOLF_PELT_BLACK": 0.0,
+		"FOX_PELT": 0.0,
+		"FOX_PELT_ARCTIC": 0.0,
+		"GOAT_PELT": 0.0,
+		"FROST_CRYSTAL": 0.0,
+		"EVOCATION_ROBE": 0.0,
+		"SKELETON_SKULL": 0.0,
+		"MYSTERY_GEMSTONE": 0.0
+	},
+	"dropChancePerLootingLevel": {
+		"PHANTOM_SKIN": 0.0,
+		"PHANTOM_BONES": 0.0,
+		"OCELOT_PELT": 0.0,
+		"OCELOT_PELT_BLACK": 0.0,
+		"WOLF_PELT": 0.0,
+		"WOLF_PELT_BLACK": 0.0,
+		"FOX_PELT": 0.0,
+		"FOX_PELT_ARCTIC": 0.0,
+		"GOAT_PELT": 0.0,
+		"EVOCATION_ROBE": 0.0,
+		"SKELETON_SKULL": 0.0
+	}
+}

@@ -1,0 +1,9 @@
+name = "OctoEconomyApi"
+filename = "OctoEconomyApi-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://tbm-server.vercel.app/jar/OctoEconomyApi-1.1.0.jar"
+
+hash-format = "sha256"
+hash = "76edabfe92fe21cd43d37a115c0eea2951c7a17baf8a5e58a5a36fb2a5cb3536"

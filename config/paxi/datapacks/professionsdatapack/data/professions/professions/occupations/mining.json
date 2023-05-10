@@ -1,0 +1,470 @@
+{
+  "type": "professions:default",
+  "actions": [
+    {
+      "action": "professions:break_block",
+      "blocks": ["#minecraft:iron_ores"],
+      "conditions": [
+        {
+          "condition": "professions:inverted",
+          "term": {
+            "condition": "professions:tool_matches",
+            "predicate": {
+              "enchantments": [
+                {
+                  "enchantment": "minecraft:silk_touch"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "rewards": [
+        {
+          "amount": 40,
+          "reward": "professions:occupation_exp"
+        },
+        {
+          "amount": 40,
+          "currency": "numismatic-overhaul:currency",
+          "reward": "professions:payment"
+        }
+      ]
+    },
+    {
+      "action": "professions:break_block",
+      "blocks": ["#minecraft:copper_ores"],
+      "conditions": [
+        {
+          "condition": "professions:inverted",
+          "term": {
+            "condition": "professions:tool_matches",
+            "predicate": {
+              "enchantments": [
+                {
+                  "enchantment": "minecraft:silk_touch"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "rewards": [
+        {
+          "amount": 35,
+          "reward": "professions:occupation_exp"
+        },
+        {
+          "amount": 35,
+          "currency": "numismatic-overhaul:currency",
+          "reward": "professions:payment"
+        }
+      ]
+    },
+    {
+      "action": "professions:break_block",
+      "blocks": ["#minecraft:gold_ores"],
+      "conditions": [
+        {
+          "condition": "professions:inverted",
+          "term": {
+            "condition": "professions:tool_matches",
+            "predicate": {
+              "enchantments": [
+                {
+                  "enchantment": "minecraft:silk_touch"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "rewards": [
+        {
+          "amount": 55,
+          "reward": "professions:occupation_exp"
+        },
+        {
+          "amount": 55,
+          "currency": "numismatic-overhaul:currency",
+          "reward": "professions:payment"
+        }
+      ]
+    },
+    {
+      "action": "professions:break_block",
+      "blocks": ["#minecraft:lapis_ores"],
+      "conditions": [
+        {
+          "condition": "professions:inverted",
+          "term": {
+            "condition": "professions:tool_matches",
+            "predicate": {
+              "enchantments": [
+                {
+                  "enchantment": "minecraft:silk_touch"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "rewards": [
+        {
+          "amount": 55,
+          "reward": "professions:occupation_exp"
+        },
+        {
+          "amount": 55,
+          "currency": "numismatic-overhaul:currency",
+          "reward": "professions:payment"
+        }
+      ]
+    },
+    {
+      "action": "professions:break_block",
+      "blocks": ["#minecraft:coal_ores"],
+      "conditions": [
+        {
+          "condition": "professions:inverted",
+          "term": {
+            "condition": "professions:tool_matches",
+            "predicate": {
+              "enchantments": [
+                {
+                  "enchantment": "minecraft:silk_touch"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "rewards": [
+        {
+          "amount": 15,
+          "reward": "professions:occupation_exp"
+        },
+        {
+          "amount": 15,
+          "currency": "numismatic-overhaul:currency",
+          "reward": "professions:payment"
+        }
+      ]
+    },
+    {
+      "action": "professions:break_block",
+      "blocks": ["#minecraft:diamond_ores"],
+      "conditions": [
+        {
+          "condition": "professions:inverted",
+          "term": {
+            "condition": "professions:tool_matches",
+            "predicate": {
+              "enchantments": [
+                {
+                  "enchantment": "minecraft:silk_touch"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "rewards": [
+        {
+          "amount": 125,
+          "reward": "professions:occupation_exp"
+        },
+        {
+          "amount": 125,
+          "currency": "numismatic-overhaul:currency",
+          "reward": "professions:payment"
+        }
+      ]
+    },
+    {
+      "action": "professions:break_block",
+      "blocks": ["#minecraft:emerald_ores"],
+      "conditions": [
+        {
+          "condition": "professions:inverted",
+          "term": {
+            "condition": "professions:tool_matches",
+            "predicate": {
+              "enchantments": [
+                {
+                  "enchantment": "minecraft:silk_touch"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "rewards": [
+        {
+          "amount": 145,
+          "reward": "professions:occupation_exp"
+        },
+        {
+          "amount": 145,
+          "currency": "numismatic-overhaul:currency",
+          "reward": "professions:payment"
+        }
+      ]
+    },
+    {
+      "action": "professions:break_block",
+      "blocks": ["#minecraft:redstone_ores"],
+      "conditions": [
+        {
+          "condition": "professions:inverted",
+          "term": {
+            "condition": "professions:tool_matches",
+            "predicate": {
+              "enchantments": [
+                {
+                  "enchantment": "minecraft:silk_touch"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "rewards": [
+        {
+          "amount": 45,
+          "reward": "professions:occupation_exp"
+        },
+        {
+          "amount": 45,
+          "currency": "numismatic-overhaul:currency",
+          "reward": "professions:payment"
+        }
+      ]
+    },
+    {
+      "action": "professions:break_block",
+      "blocks": ["minecraft:nether_quartz_ore"],
+      "conditions": [
+        {
+          "condition": "professions:inverted",
+          "term": {
+            "condition": "professions:tool_matches",
+            "predicate": {
+              "enchantments": [
+                {
+                  "enchantment": "minecraft:silk_touch"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "rewards": [
+        {
+          "amount": 30,
+          "currency": "numismatic-overhaul:currency",
+          "reward": "professions:payment"
+        },
+        {
+          "amount": 30,
+          "reward": "professions:occupation_exp"
+        }
+      ]
+    },
+    {
+      "action": "professions:break_block",
+      "blocks": ["minecraft:obsidian"],
+      "conditions": [],
+      "rewards": [
+        {
+          "amount": 70,
+          "currency": "numismatic-overhaul:currency",
+          "reward": "professions:payment"
+        },
+        {
+          "amount": 70,
+          "reward": "professions:occupation_exp"
+        }
+      ]
+    },
+    {
+      "action": "professions:break_block",
+      "blocks": [
+        "minecraft:stone",
+        "minecraft:andesite",
+        "minecraft:granite",
+        "minecraft:diorite",
+        "minecraft:deepslate",
+        "minecraft:calcite",
+        "minecraft:dripstone_block",
+        "minecraft:tuff"
+      ],
+      "conditions": [],
+      "rewards": [
+        {
+          "amount": 10,
+          "reward": "professions:occupation_exp"
+        },
+        {
+          "amount": 10,
+          "currency": "numismatic-overhaul:currency",
+          "reward": "professions:payment"
+        }
+      ]
+    },
+    {
+      "action": "professions:break_block",
+      "blocks": ["#minecraft:terracotta"],
+      "conditions": [],
+      "rewards": [
+        {
+          "amount": 10,
+          "reward": "professions:occupation_exp"
+        },
+        {
+          "amount": 10,
+          "currency": "numismatic-overhaul:currency",
+          "reward": "professions:payment"
+        }
+      ]
+    },
+    {
+      "action": "professions:break_block",
+      "blocks": ["minecraft:end_stone"],
+      "conditions": [],
+      "rewards": [
+        {
+          "amount": 10,
+          "reward": "professions:occupation_exp"
+        },
+        {
+          "amount": 10,
+          "currency": "numismatic-overhaul:currency",
+          "reward": "professions:payment"
+        }
+      ]
+    },
+    {
+      "action": "professions:break_block",
+      "blocks": [
+        "minecraft:clay",
+        "minecraft:gravel",
+        "minecraft:sand",
+        "minecraft:red_sand",
+        "minecraft:sandstone",
+        "minecraft:red_sandstone",
+        "minecraft:blackstone"
+      ],
+      "conditions": [],
+      "rewards": [
+        {
+          "amount": 10,
+          "reward": "professions:occupation_exp"
+        },
+        {
+          "amount": 10,
+          "currency": "numismatic-overhaul:currency",
+          "reward": "professions:payment"
+        }
+      ]
+    },
+    {
+      "action": "professions:break_block",
+      "blocks": ["minecraft:amethyst_block"],
+      "conditions": [],
+      "rewards": [
+        {
+          "amount": 20,
+          "reward": "professions:occupation_exp"
+        },
+        {
+          "amount": 15,
+          "currency": "numismatic-overhaul:currency",
+          "reward": "professions:payment"
+        }
+      ]
+    },
+    {
+      "action": "professions:tnt_destroy",
+      "blocks": [
+        "minecraft:stone",
+        "minecraft:andesite",
+        "minecraft:granite",
+        "minecraft:diorite",
+        "minecraft:deepslate",
+        "minecraft:tuff",
+        "minecraft:calcite",
+        "minecraft:dripstone_block"
+      ],
+      "conditions": [],
+      "rewards": [
+        {
+          "amount": 5,
+          "reward": "professions:occupation_exp"
+        },
+        {
+          "amount": 5,
+          "currency": "numismatic-overhaul:currency",
+          "reward": "professions:payment"
+        }
+      ]
+    },
+    {
+      "action": "professions:explore_struct",
+      "conditions": [],
+      "rewards": [
+        {
+          "amount": 30,
+          "reward": "professions:occupation_exp"
+        },
+        {
+          "amount": 40,
+          "currency": "numismatic-overhaul:currency",
+          "reward": "professions:payment"
+        }
+      ],
+      "structures": ["minecraft:mineshaft"]
+    },
+    {
+      "action": "professions:explore_struct",
+      "conditions": [],
+      "rewards": [
+        {
+          "amount": 30,
+          "reward": "professions:occupation_exp"
+        },
+        {
+          "amount": 40,
+          "currency": "numismatic-overhaul:currency",
+          "reward": "professions:payment"
+        }
+      ],
+      "structures": ["minecraft:mineshaft_mesa"]
+    }
+  ],
+  "color": "#666E63",
+  "description": ["Earn money and experience", "by mining ores and minerals."],
+  "descriptionColor": "#FFFFFF",
+  "displayName": "Mining",
+  "experienceSclEquation": "1000*1.03706264^(lvl-1)",
+  "incomeSclEquation": "base",
+  "maxLevel": 100,
+  "modifiers": {
+    "milestones": [],
+    "perks": [
+      {
+        "attribute": "minecraft:generic.max_health",
+        "increaseBy": 0.2,
+        "level": 1,
+        "perk": "professions:scaling_attribute"
+      },
+      {
+        "attribute": "minecraft:generic.knockback_resistance",
+        "increaseBy": 0.002,
+        "level": 10,
+        "perk": "professions:scaling_attribute"
+      }
+    ]
+  },
+  "unlocks": []
+}

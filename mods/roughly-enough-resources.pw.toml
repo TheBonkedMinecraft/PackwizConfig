@@ -1,0 +1,9 @@
+name = "RoughlyEnoughResources"
+filename = "rer-2.6.1.jar"
+side = "both"
+
+[download]
+url = "https://tbm-server.vercel.app/jar/rer-2.6.1.jar"
+
+hash-format = "sha256"
+hash = "13436830c10e87345e9f894cbe1a50b4be1ddbcf0808d83dac1d345c202ad698"
