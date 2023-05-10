@@ -3,11 +3,7 @@ filename = "Structory_Towers_1.19_v1.0.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "07f6756351bdad6ab524f7dd8eeec722a96d87ff"
-mode = "metadata:curseforge"
+url = "https://tbm-server.vercel.app/jar/Structory_Towers_1.19_v1.0.1.jar"
 
-[update]
-[update.curseforge]
-file-id = 4306457
-project-id = 783522
+hash-format = "sha256"
+hash = "4c6d65e009d5ceda4996f92dd2b2d0935839ff775c37c7564b7b583e3c4b32ee"

@@ -3,11 +3,7 @@ filename = "Structory-1.19-v1.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "a12b0103dfaf95790a6ad983068c286c5fc1b015"
-mode = "metadata:curseforge"
+url = "https://tbm-server.vercel.app/jar/Structory-1.19-v1.3.jar"
 
-[update]
-[update.curseforge]
-file-id = 4033419
-project-id = 636540
+hash-format = "sha256"
+hash = "5aea3bce30a3fc3733a6bb492bd68acc2cbd80722a33ef549474484d6df5e7ab"
