@@ -1,9 +1,9 @@
 name = "Enderscape"
-filename = "enderscape-0.3.4-1.19.jar"
+filename = "enderscape-0.3.5-1.19.2.jar"
 side = "both"
 
 [download]
-url = "https://tbm-server.vercel.app/jar/enderscape-0.3.4-1.19.jar"
+url = "https://tbm-server.vercel.app/jar/enderscape-0.3.5-1.19.2.jar"
 
 hash-format = "sha256"
-hash = "f738fa5cc45e8bd39241ca39c1a4f608296e52a312e3f49a2eaffa72bfa77f23"
+hash = "a9d1027e9497cbbb170511653f5a92d68d7f651f2b79b8e4ae9c1c2d640c8a6d"
