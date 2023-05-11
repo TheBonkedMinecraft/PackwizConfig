@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".vercel/README.txt"
+hash = "f5d1ed0f5032ae128931f46459b5faa1af6319fc2dfb3e7a5fe54a84bf93dbd6"
+
+[[files]]
+file = ".vercel/project.json"
+hash = "b2027952e0d3b3499ab6d048711655e69ffa6e2ecec6e8d700a2e961a6b5b056"
+
+[[files]]
 file = "README.md"
 hash = "fe23a2b534f6d78e62529e301769283ee4398728cf5d1b752aa12e2b27085d86"
 
@@ -967,6 +975,14 @@ hash = "dfc68d3a33bca6d7030e1e5ac2ed4e9e3c3f079bd877c6a3cdc2b008a6fb3e82"
 [[files]]
 file = "jar/OctoEconomyApi-1.1.0.jar"
 hash = "76edabfe92fe21cd43d37a115c0eea2951c7a17baf8a5e58a5a36fb2a5cb3536"
+
+[[files]]
+file = "jar/Structory-1.19-v1.3.jar"
+hash = "5aea3bce30a3fc3733a6bb492bd68acc2cbd80722a33ef549474484d6df5e7ab"
+
+[[files]]
+file = "jar/Structory_Towers_1.19_v1.0.1.jar"
+hash = "4c6d65e009d5ceda4996f92dd2b2d0935839ff775c37c7564b7b583e3c4b32ee"
 
 [[files]]
 file = "jar/better-end-2.1.5.jar"
@@ -2119,12 +2135,12 @@ metafile = true
 
 [[files]]
 file = "mods/structory-towers.pw.toml"
-hash = "b69bb36e39cd8ed8171a373a0cef0a131e05fcd56adac72dd95f40e243160efb"
+hash = "f55a47a31715c6d5bf20c52a39e8e521be2109b9e741c950642f7b194b53b299"
 metafile = true
 
 [[files]]
 file = "mods/structory.pw.toml"
-hash = "1416161702c00780b4253fcc81cf50799a54c2de08b1b3563a1f3d748a543607"
+hash = "99030c791382ec2f927947615e96d1e63a10e20670fd3be687a934d4b59ca2e5"
 metafile = true
 
 [[files]]
