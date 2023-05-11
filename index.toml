@@ -1175,6 +1175,11 @@ hash = "18a704a543a3bc007ecb527543bff6bd203840ee5c64f85555e7b9092d4a268a"
 metafile = true
 
 [[files]]
+file = "mods/chefs-delight-fabric.pw.toml"
+hash = "d56e9a5a605d94646aa6ae16f5b447b23440232470480fd8c35fcbc9faab2c47"
+metafile = true
+
+[[files]]
 file = "mods/chipped.pw.toml"
 hash = "e0f78eb482910dc9013d1cdc30a6cbc74a066eb456b81473a5ef10f1d7a067ff"
 metafile = true
