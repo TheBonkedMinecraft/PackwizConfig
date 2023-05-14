@@ -3,11 +3,7 @@ filename = "Oh_The_Biomes_You'll_Go-fabric-1.19.2-2.0.1.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "08f3b99c84935cbb6655cb97b2c037e81929806e"
-mode = "metadata:curseforge"
+url = "https://tbm-server.vercel.app/jar/Oh_The_Biomes_You'll_Go-fabric-1.19.2-2.0.1.1.jar"
 
-[update]
-[update.curseforge]
-file-id = 4426495
-project-id = 391378
+hash-format = "sha256"
+hash = "42bc5d77829dd0b24a044c9eff4849cd142bf3a4bfb130c7d616307b2e752cab"

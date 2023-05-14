@@ -961,6 +961,10 @@ file = "jar/OctoEconomyApi-1.1.0.jar"
 hash = "76edabfe92fe21cd43d37a115c0eea2951c7a17baf8a5e58a5a36fb2a5cb3536"
 
 [[files]]
+file = "jar/Oh_The_Biomes_You'll_Go-fabric-1.19.2-2.0.1.1.jar"
+hash = "42bc5d77829dd0b24a044c9eff4849cd142bf3a4bfb130c7d616307b2e752cab"
+
+[[files]]
 file = "jar/Structory-1.19-v1.3.jar"
 hash = "5aea3bce30a3fc3733a6bb492bd68acc2cbd80722a33ef549474484d6df5e7ab"
 
@@ -1611,7 +1615,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-biomes-youll-go-fabric.pw.toml"
-hash = "1ab8c725989f1dab85d5857a7846fc6096c715f74bd09ccb6a0191e27df57a37"
+hash = "c7e6f28ee6aa2a596d18720f6d3604af1929a43c1c5f856a9493b845b65770e0"
 metafile = true
 
 [[files]]
