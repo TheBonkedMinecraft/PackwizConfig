@@ -1,13 +1,13 @@
 name = "JourneyMap"
-filename = "journeymap-1.19.2-5.9.6-fabric.jar"
+filename = "journeymap-1.19.2-5.9.7-fabric.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/lfHFW1mp/versions/s1jUUTEX/journeymap-1.19.2-5.9.7-fabric.jar"
 hash-format = "sha1"
-hash = "adbfc14e8312ac8cd3a0741248bb729e9906b8d0"
-mode = "metadata:curseforge"
+hash = "e2f30a11a5cb29e1e97055a78991285c879e8209"
 
 [update]
-[update.curseforge]
-file-id = 4517055
-project-id = 32274
+[update.modrinth]
+mod-id = "lfHFW1mp"
+version = "s1jUUTEX"

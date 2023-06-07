@@ -3,11 +3,11 @@ filename = "bclib-2.1.6.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/BgNRHReB/versions/mKksn4EY/bclib-2.1.6.jar"
 hash-format = "sha1"
 hash = "464d38d3e2b0b098855e1faa583a002ed2269257"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4393099
-project-id = 495191
+[update.modrinth]
+mod-id = "BgNRHReB"
+version = "mKksn4EY"

@@ -1,9 +1,13 @@
-name = "Fabric Waystones"
-filename = "wraith-waystones-3.0.7+mc1.19.2.jar"
+name = "Waystones"
+filename = "waystones-fabric-1.19.2-11.4.0.jar"
 side = "both"
 
 [download]
-url = "https://tbm-server.vercel.app/jar/wraith-waystones-3.0.7+mc1.19.2.jar"
+url = "https://cdn.modrinth.com/data/LOpKHB2A/versions/kA4IuZjx/waystones-fabric-1.19.2-11.4.0.jar"
+hash-format = "sha1"
+hash = "cd18a4a541a6daa13e0416ce6b4e930b88020f02"
 
-hash-format = "sha256"
-hash = "404a1bd0a8130b4e7e0ee9f0ab2f4fe4fabe8f3d26d4c725ec76af5f00dc3067"
+[update]
+[update.modrinth]
+mod-id = "LOpKHB2A"
+version = "kA4IuZjx"

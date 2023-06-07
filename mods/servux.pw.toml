@@ -1,3 +1,4 @@
+# TODO: Add to self build chain
 name = "Servux"
 filename = "servux-fabric-1.19.0-0.1.0.jar"
 side = "both"

@@ -1,9 +1,0 @@
-name = "Oh The Biomes You'll Go Refabricated"
-filename = "Oh_The_Biomes_You'll_Go-fabric-1.19.2-2.0.1.1.jar"
-side = "both"
-
-[download]
-url = "https://tbm-server.vercel.app/jar/Oh_The_Biomes_You'll_Go-fabric-1.19.2-2.0.1.1.jar"
-
-hash-format = "sha256"
-hash = "42bc5d77829dd0b24a044c9eff4849cd142bf3a4bfb130c7d616307b2e752cab"

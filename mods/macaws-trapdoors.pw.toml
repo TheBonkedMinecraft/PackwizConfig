@@ -1,13 +1,14 @@
+# TODO: Add to self build chain
 name = "Macaw's Trapdoors"
-filename = "mcw-trapdoors-1.0.9-mc1.19.2fabric.jar"
+filename = "mcw-trapdoors-1.1.0-mc1.19.2fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "683e192f7ed8c51a4b56ef32dc633908fd42233b"
+hash = "a71e255925c9022e74869abb27d91508b0b2250c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4429498
+file-id = 4543532
 project-id = 400933

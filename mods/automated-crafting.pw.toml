@@ -3,11 +3,11 @@ filename = "automated-crafting-1.4.10+MC1.19-1.19.2.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/KwD3Y4Jn/versions/f7MuGrOU/automated-crafting-1.4.10%2BMC1.19-1.19.2.jar"
 hash-format = "sha1"
 hash = "a263730b81f758bae854a432c33ee6558f6f9b9a"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4511167
-project-id = 389435
+[update.modrinth]
+mod-id = "KwD3Y4Jn"
+version = "f7MuGrOU"

@@ -1,3 +1,4 @@
+# TODO: Add to self build chain
 name = "Ingredient Extension API"
 filename = "IngredientExtensionAPI-fabric-1.19.2-3.0.6.jar"
 side = "both"

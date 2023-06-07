@@ -1,0 +1,13 @@
+name = "Customizable Elytra"
+filename = "customizableelytra-fabric-1.6.4-1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/L25fOeGq/versions/8KKiTkWF/customizableelytra-fabric-1.6.4-1.19.jar"
+hash-format = "sha1"
+hash = "2692874f4beb5232b1dda646b57b5b3b0a19d61f"
+
+[update]
+[update.modrinth]
+mod-id = "L25fOeGq"
+version = "8KKiTkWF"
