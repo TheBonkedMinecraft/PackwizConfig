@@ -1,14 +1,13 @@
-# TODO: Add to self build chain
 name = "MC Dungeons Weapons"
-filename = "mcdw-5.0.12-1.19.jar"
+filename = "mcdw-5.0.13-1.19.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "013e2e258517d715876d838551d6f63f57fd399f"
+hash = "befd64e6b0c363c122e150c8ef38afde91dbb599"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4570268
+file-id = 4603016
 project-id = 407311
