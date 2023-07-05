@@ -557,10 +557,6 @@ file = "config/farsight.json"
 hash = "98a9f53e1e21247108a90e80b9cf4141fd7b432e219a262672ffedd5730afbab"
 
 [[files]]
-file = "config/fastload.properties"
-hash = "af57988e282d306538ddcd22db817f81e81358da02bae3a244aa2c2ae2c92ab5"
-
-[[files]]
 file = "config/ferritecore.mixin.properties"
 hash = "b95fd739ebab8995117722aaac90aab6bea1aeec3a29b5170e332a69dc6408b6"
 
@@ -989,6 +985,10 @@ file = "jar/rer-2.6.1.jar"
 hash = "13436830c10e87345e9f894cbe1a50b4be1ddbcf0808d83dac1d345c202ad698"
 
 [[files]]
+file = "jar/tiered-1.2.7.jar"
+hash = "7794813ed45781a7e86fb76363bbbba263fb34f0863a79e03928a269acb26935"
+
+[[files]]
 file = "jar/wraith-waystones-3.0.7+mc1.19.2.jar"
 hash = "404a1bd0a8130b4e7e0ee9f0ab2f4fe4fabe8f3d26d4c725ec76af5f00dc3067"
 
@@ -1057,6 +1057,11 @@ metafile = true
 [[files]]
 file = "mods/automated-crafting.pw.toml"
 hash = "89188293f0a0e8eff1f3d21bf788cbbe072ee769d18087f6b52f9092882ca815"
+metafile = true
+
+[[files]]
+file = "mods/autotag.pw.toml"
+hash = "4e37e489f2b31f26e0c07866b6248e75b27a7396aada3f3f7c18c488fdc1bc74"
 metafile = true
 
 [[files]]
@@ -1171,7 +1176,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
+hash = "c3c73a4ae07f1ab6de623b37007df3581286fe3495377af6d3da4b105892adb2"
 metafile = true
 
 [[files]]
@@ -1212,11 +1217,6 @@ metafile = true
 [[files]]
 file = "mods/crafttweaker.pw.toml"
 hash = "a1a79c2edb4cb7f1bdd104416cfb593c3799000a0c6d972f259ab3bcebe50a81"
-metafile = true
-
-[[files]]
-file = "mods/create-fabric.pw.toml"
-hash = "e9ca0f5ceeb8c3dc5117d3bc0d5fd5756eb2763e8ae148e8053396726cc06259"
 metafile = true
 
 [[files]]
@@ -1316,7 +1316,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "7873ca5fa00f1d5bcc11ba839aed4866e660017f8caee9337c7dffc8682d5653"
+hash = "8d1e45cdea6bb16c53496bc3b4d3504c933075c73084d294f8a57387f71e6d8b"
 metafile = true
 
 [[files]]
@@ -1352,11 +1352,6 @@ metafile = true
 [[files]]
 file = "mods/fastbench-for-fabric.pw.toml"
 hash = "2147371a50b46dac05bb7edb1e4cc01077fafd3947dfe79ef13835f65db96a91"
-metafile = true
-
-[[files]]
-file = "mods/fastload.pw.toml"
-hash = "0e72ac12907f4fb5a499a459cc2c64f9225a0c77ee59e76c9360ff0d3479aea2"
 metafile = true
 
 [[files]]
@@ -1457,6 +1452,11 @@ metafile = true
 [[files]]
 file = "mods/leaves-be-gone.pw.toml"
 hash = "408bba556516e21cfa25674fabca2e1da87f7db700a7b88c2cdf1025414b39a1"
+metafile = true
+
+[[files]]
+file = "mods/libz.pw.toml"
+hash = "167349ced87b2aeb37ff05a77572769d5825b2e7ed86aeff15e247f206f41c42"
 metafile = true
 
 [[files]]
@@ -1737,6 +1737,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "610281b70252ad2359481d23b9774418032aee99b72defae529c8b32c0166e13"
+metafile = true
+
+[[files]]
+file = "mods/tieredz.pw.toml"
+hash = "e960c0c339e6e72c88cada93918afa78d74efd7dbbba31f69441e675eb04cf6e"
 metafile = true
 
 [[files]]
