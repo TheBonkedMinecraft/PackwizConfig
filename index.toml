@@ -1574,11 +1574,6 @@ hash = "97ffbc7d0e4087777c5e3732780f01958f99d44c4f09fd534bbb8f239d4980a1"
 metafile = true
 
 [[files]]
-file = "mods/minekea-fabric.pw.toml"
-hash = "d1f0010e98a91487cbf23be33b5d531e45be2e61318571bc12304f7b3c7b77e0"
-metafile = true
-
-[[files]]
 file = "mods/minihud.pw.toml"
 hash = "ec2e01258ac91cd8a753b776bfe1e01ad7dacfedbbff19fb4eec779bb10cf4aa"
 metafile = true
