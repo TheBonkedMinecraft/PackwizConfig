@@ -1569,16 +1569,6 @@ hash = "077e55cc2dacafec501a826cae7028fa38de59f5daf71c1b7658afb583e17ea7"
 metafile = true
 
 [[files]]
-file = "mods/mcda.pw.toml"
-hash = "19369113bec05ef7c121157e38172ebc69bcda3c83fcf9c863a472e3b6c74184"
-metafile = true
-
-[[files]]
-file = "mods/mcdw.pw.toml"
-hash = "b985eae61dd6390e0324b9d40958fb4814b35a73bbb7c04b87bce1b3e5b820b3"
-metafile = true
-
-[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "97ffbc7d0e4087777c5e3732780f01958f99d44c4f09fd534bbb8f239d4980a1"
 metafile = true
