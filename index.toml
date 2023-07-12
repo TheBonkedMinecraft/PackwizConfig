@@ -978,7 +978,7 @@ hash = "27bea23246551ea92fb9f742037919ef0e5a8dd8e390c217ab8bfbae00bada33"
 
 [[files]]
 file = "jar/dungeons-0.2.6-release.jar"
-hash = "680209a92dcc2dccbf74f256a88190b79c23f328929dd75df38df1e40731152c"
+hash = "d2f8f7f8f2e9d34e9f9bcc2ef51ebaf598aa3ac240a5a7e9d9bdd8416f4dee0f"
 
 [[files]]
 file = "jar/enderscape-0.3.5-1.19.2.jar"
@@ -1800,7 +1800,7 @@ metafile = true
 
 [[files]]
 file = "mods/tbm-dungeons.pw.toml"
-hash = "9c3438dc1e11c90660b464f19baed56de686a90d19a071bfeb2ecbe95b68441f"
+hash = "10413701bf346d090f39ef8c98c5323b6c88b7cc226e8135a60db617d962e972"
 metafile = true
 
 [[files]]
@@ -1846,11 +1846,6 @@ metafile = true
 [[files]]
 file = "mods/twigs.pw.toml"
 hash = "71b666322e9d5576b92da3ae8c22c5e7d62c9715c0e874dee94dfd2e8a61c9af"
-metafile = true
-
-[[files]]
-file = "mods/villagersplus-fabric.pw.toml"
-hash = "c64ff8146f82cfe0e963aa9d5522bd1f95fba06b2255d269da619bc64c4ab6fb"
 metafile = true
 
 [[files]]
