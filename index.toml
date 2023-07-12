@@ -621,6 +621,10 @@ file = "config/lithium.properties"
 hash = "76765e8e5ff8e927d80beb0739aababcf36e7babfd94262f2afece256cc5cd2e"
 
 [[files]]
+file = "config/masa_gadget_mod.json"
+hash = "5f8cfcb5de2831edc9ee54d841112dc42092c1c90c8f879ea6c8f78a68907c6e"
+
+[[files]]
 file = "config/mcda/mcda_armor_stats.json5"
 hash = "3de064e7729393633687c012acf8b5dfd241d79215f3a1a652f02bed3947f024"
 
@@ -973,8 +977,8 @@ file = "jar/better-nether-7.1.4.jar"
 hash = "27bea23246551ea92fb9f742037919ef0e5a8dd8e390c217ab8bfbae00bada33"
 
 [[files]]
-file = "jar/dungeons-0.2.4-release.jar"
-hash = "c2813a618315015eec4e2b087f5247c2151232071f204294b510f3dce8bef520"
+file = "jar/dungeons-0.2.6-release.jar"
+hash = "680209a92dcc2dccbf74f256a88190b79c23f328929dd75df38df1e40731152c"
 
 [[files]]
 file = "jar/enderscape-0.3.5-1.19.2.jar"
@@ -1041,7 +1045,12 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "7916e9bf676dd9730f970893ff61fd25f43c563ff6133d1e7886366a3cd9e282"
+hash = "b25059cd43f681fbd3447f29d355eda0ede4800b3b11cb680ca2889a92be180f"
+metafile = true
+
+[[files]]
+file = "mods/arrp.pw.toml"
+hash = "067c297842985d85d68b3ac840c58aa006e8959a0b2f3ad25a1967b07c05b41d"
 metafile = true
 
 [[files]]
@@ -1170,6 +1179,11 @@ hash = "60eea1bbbf59860d54d9d66b0961e2f414586f1fbc66a416e5c02f34e883b1aa"
 metafile = true
 
 [[files]]
+file = "mods/chunk-loaders.pw.toml"
+hash = "3378e925c83b78301d2025717fc59b39f1107b287148a7c0a3a1d7137b739d40"
+metafile = true
+
+[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "0da3b33d0d62fcaf24835fb432b8dd9be02e82897cd43fddc38fa81106203d37"
 metafile = true
@@ -1197,6 +1211,11 @@ metafile = true
 [[files]]
 file = "mods/configured-fabric.pw.toml"
 hash = "8c54ead6605a5aaa933323cfddd77d105c9fae5079cc06ca9ff1ec917ba97bb6"
+metafile = true
+
+[[files]]
+file = "mods/consistencyplus.pw.toml"
+hash = "dd96c5845311e918c0a4da26e717c285fa065fa7213f85542c48ad18e883ab20"
 metafile = true
 
 [[files]]
@@ -1232,6 +1251,11 @@ metafile = true
 [[files]]
 file = "mods/customizable-elytra.pw.toml"
 hash = "9f02c62ab2e7444fc7e9572cf9299665d9f4889df1fafc593791723c035f1260"
+metafile = true
+
+[[files]]
+file = "mods/dashloader.pw.toml"
+hash = "fa0bfdfa7fa3ace1d30c8e0929ab1f120be5ceb0adaee37f0f2bd90bc27b7492"
 metafile = true
 
 [[files]]
@@ -1321,7 +1345,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "4ee359a86da950211a8da17a896c815af7d35fd9c5b7d3472f3fd5676476ba81"
+hash = "de9b5bac4165fb069bf6df9da2bb6028d50dd51fa0d294f0fb62d1d0c64b707b"
 metafile = true
 
 [[files]]
@@ -1362,6 +1386,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore-fabric.pw.toml"
+hash = "1dae1ed95575e8248b9fa840f1a7c22d68c86dfc3f94a199a4115e2b12d5adc0"
 metafile = true
 
 [[files]]
@@ -1406,12 +1435,17 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
+hash = "7c3e839ecd643c10c6f905e193b6edc18c978e4be202a031cffd0b3a45266ece"
 metafile = true
 
 [[files]]
 file = "mods/ingredient-extension-api.pw.toml"
 hash = "58f893fb6a820c3e68b655444b250d9fdca3a6e422cbd05fa07dac6b45348376"
+metafile = true
+
+[[files]]
+file = "mods/item-scroller.pw.toml"
+hash = "34229e600fb26341545e086a524e3584df903aac2b04001930bebee25a1ae8ac"
 metafile = true
 
 [[files]]
@@ -1446,7 +1480,7 @@ metafile = true
 
 [[files]]
 file = "mods/lazydfu.pw.toml"
-hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
+hash = "e75515de6f60227e731affe8077018bd68d8556ebd62032a5e5bd5217b28d44f"
 metafile = true
 
 [[files]]
@@ -1455,8 +1489,18 @@ hash = "408bba556516e21cfa25674fabca2e1da87f7db700a7b88c2cdf1025414b39a1"
 metafile = true
 
 [[files]]
+file = "mods/ledger.pw.toml"
+hash = "cbd6b97dfc49090b18480f43eeef4401144006ed406110f32fb1126d47a21f11"
+metafile = true
+
+[[files]]
 file = "mods/libz.pw.toml"
 hash = "167349ced87b2aeb37ff05a77572769d5825b2e7ed86aeff15e247f206f41c42"
+metafile = true
+
+[[files]]
+file = "mods/litematica.pw.toml"
+hash = "d969b4fa4fbb0b33aecaf62de481dcb707517fbe27c07e8ea2bf468a6d2b0e68"
 metafile = true
 
 [[files]]
@@ -1510,6 +1554,21 @@ hash = "e80cf554466ccc875c78563c8d2e00eab5059f344b76c240f40c0fe2a07fff84"
 metafile = true
 
 [[files]]
+file = "mods/magiclib.pw.toml"
+hash = "d87e4bdd8e3a3ec46fdf4ec31fcd6d18cb2878a13981c6d743fc76f2c687d086"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "3926d859126491c673d921c3f3f93316766689ff0694f83d82255ec4776d3c74"
+metafile = true
+
+[[files]]
+file = "mods/masa-gadget.pw.toml"
+hash = "077e55cc2dacafec501a826cae7028fa38de59f5daf71c1b7658afb583e17ea7"
+metafile = true
+
+[[files]]
 file = "mods/mcda.pw.toml"
 hash = "19369113bec05ef7c121157e38172ebc69bcda3c83fcf9c863a472e3b6c74184"
 metafile = true
@@ -1522,6 +1581,16 @@ metafile = true
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "97ffbc7d0e4087777c5e3732780f01958f99d44c4f09fd534bbb8f239d4980a1"
+metafile = true
+
+[[files]]
+file = "mods/minekea-fabric.pw.toml"
+hash = "d1f0010e98a91487cbf23be33b5d531e45be2e61318571bc12304f7b3c7b77e0"
+metafile = true
+
+[[files]]
+file = "mods/minihud.pw.toml"
+hash = "ec2e01258ac91cd8a753b776bfe1e01ad7dacfedbbff19fb4eec779bb10cf4aa"
 metafile = true
 
 [[files]]
@@ -1597,6 +1666,11 @@ metafile = true
 [[files]]
 file = "mods/paladins-furniture.pw.toml"
 hash = "02d1024c42cd3671768a7b851a5dc95498b28b892581cd0969bf7c8a44277266"
+metafile = true
+
+[[files]]
+file = "mods/patchouli-fabric.pw.toml"
+hash = "0103115337ebe895bb4802a4de51d9ea8f130112581b9cdf28ed3abee59d50de"
 metafile = true
 
 [[files]]
@@ -1720,13 +1794,28 @@ hash = "99030c791382ec2f927947615e96d1e63a10e20670fd3be687a934d4b59ca2e5"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "ca30cb6306d482d989d53cd49b7fb54db3f302ce4cc1893b10cace7a0e5c7a0d"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "afecb4bb14c427f869a92c57581dc714cb04d3b7f66e7b17f86cde5cac4f1217"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "8dab797219b7e7127e1324a3e8f929d22017e90373c68aa8afda970f33b838dc"
 metafile = true
 
 [[files]]
+file = "mods/syncmatica.pw.toml"
+hash = "a0f3cd90fc6dea38e64e8083462c9bf09c37d03b0cb7906124f2d773039daa5b"
+metafile = true
+
+[[files]]
 file = "mods/tbm-dungeons.pw.toml"
-hash = "e50623aeb5de6920bd9535427077da1aa7c63b8b7f2d9e7313c95fd2966e045f"
+hash = "9c3438dc1e11c90660b464f19baed56de686a90d19a071bfeb2ecbe95b68441f"
 metafile = true
 
 [[files]]
@@ -1760,8 +1849,23 @@ hash = "e4e021f4e9647d01496dfd9f4dbf77cf46575318bd54f40aac7d3b4996baecb8"
 metafile = true
 
 [[files]]
+file = "mods/tweakermore.pw.toml"
+hash = "9448c5d4de71cf98d77396aaf7dcc035122692d3c819040731de1b242862dac6"
+metafile = true
+
+[[files]]
+file = "mods/tweakeroo.pw.toml"
+hash = "c5edf1f8114b808f9a63134f2973745b3e4172478b7f0aec5c9359f1325f37da"
+metafile = true
+
+[[files]]
 file = "mods/twigs.pw.toml"
 hash = "71b666322e9d5576b92da3ae8c22c5e7d62c9715c0e874dee94dfd2e8a61c9af"
+metafile = true
+
+[[files]]
+file = "mods/villagersplus-fabric.pw.toml"
+hash = "c64ff8146f82cfe0e963aa9d5522bd1f95fba06b2255d269da619bc64c4ab6fb"
 metafile = true
 
 [[files]]
@@ -1785,11 +1889,6 @@ hash = "e61c296aa297779459086a93d9cb8eb2528541b78cdee90c8cb1ff2ee83fa06a"
 metafile = true
 
 [[files]]
-file = "mods/when-dungeons-arise.pw.toml"
-hash = "153ad0f45f02f8f53a993debb8d7c5e3ee398c95a03e7ed9fe3cdc3b40a4c35e"
-metafile = true
-
-[[files]]
 file = "mods/wondrous-wilds.pw.toml"
 hash = "5b451035d32acfdf96dd2ad3171339c9145a496ea912f741aba7734fc8b5466f"
 metafile = true
@@ -1797,6 +1896,11 @@ metafile = true
 [[files]]
 file = "mods/woof.pw.toml"
 hash = "6f689fdbc178b6dda89d57b2569fcd09a0512ff01d6563476552fcbfcd7cfef7"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "719da66ac6adbf00ace4a021f1bfcd6aca271b16caa40629de9e73a79b844905"
 metafile = true
 
 [[files]]
