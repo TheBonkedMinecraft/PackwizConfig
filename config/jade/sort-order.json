@@ -76,5 +76,6 @@
   "minecraft:block_inventory": null,
   "minecraft:fluid": null,
   "minecraft:energy_storage": null,
-  "minecraft:progress": null
+  "minecraft:progress": null,
+  "waystones:waystone": null
 }

@@ -32,6 +32,4 @@ ServerEvents.recipes((event) => {
   for (let i = 0; i < list.length; i++) {
     event.remove({ output: list[i] });
   }
-  event.remove({ mod: "mcdw" });
-  event.remove({ mod: "mcda" });
 });

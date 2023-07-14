@@ -7,8 +7,8 @@
     village_waystone_weight: 2,
   },
   teleportation_cost: {
-    cost_type: "ITEM",
-    cost_item: "numismatic-overhaul:bronze_coin",
+    cost_type: "CURRENCY",
+    cost_item: "numismatic-overhaul:currency",
     base_cost: 10,
     cost_per_block_distance: 0.1,
     cost_multiplier_between_dimensions: 2.0,
