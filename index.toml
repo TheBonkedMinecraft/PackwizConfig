@@ -574,7 +574,7 @@ hash = "2b9737201276ee5e241a123c10a818d6aa09b7d398592624737a738abcd3b9f6"
 
 [[files]]
 file = "config/journeymap-server.json"
-hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+hash = "58f5a8c9e9d21a0c12c0eea8c602489117e13f32950e8d4a78056e227d325cc3"
 
 [[files]]
 file = "config/lambdynlights.toml"
@@ -1266,7 +1266,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "de9b5bac4165fb069bf6df9da2bb6028d50dd51fa0d294f0fb62d1d0c64b707b"
+hash = "44ab0af56739e5300c368e5a9c40a81e0897e8e1013e7dab746e27c6b5c3e811"
 metafile = true
 
 [[files]]
@@ -1752,6 +1752,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "e4e021f4e9647d01496dfd9f4dbf77cf46575318bd54f40aac7d3b4996baecb8"
+metafile = true
+
+[[files]]
+file = "mods/trowel.pw.toml"
+hash = "a14a46cc416fa3b0456dd5e12b47f77c6f0fb62b55b709731c301c5385aba04a"
 metafile = true
 
 [[files]]
