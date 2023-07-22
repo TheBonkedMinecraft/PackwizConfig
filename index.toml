@@ -442,7 +442,7 @@ hash = "6b4d7eb81f36519c9672a2af5007a85501e33752d6e37edc509c3cea2b312215"
 
 [[files]]
 file = "config/dashloader.json"
-hash = "218ad4fcba9d5bb59e75717caeefdfa881a35ebc24f7bafbe5146f4b196e94b9"
+hash = "86fd81f9d691c6da733247281d0a0994a89b3aa6e006cb7692b03c297616cab9"
 
 [[files]]
 file = "config/dawn/features.json"
@@ -1740,6 +1740,11 @@ hash = "e960c0c339e6e72c88cada93918afa78d74efd7dbbba31f69441e675eb04cf6e"
 metafile = true
 
 [[files]]
+file = "mods/timeoutout-fabric.pw.toml"
+hash = "aa30fa9ce08bc01bf1d858b7d0c020b0955954e29f7c560fbacb7e90318308f0"
+metafile = true
+
+[[files]]
 file = "mods/trade-cycling.pw.toml"
 hash = "2a8dfc75429196334dfa45be5be94011e8ac2689b43268f2ea58a10e371eae9a"
 metafile = true
@@ -1772,6 +1777,11 @@ metafile = true
 [[files]]
 file = "mods/twigs.pw.toml"
 hash = "71b666322e9d5576b92da3ae8c22c5e7d62c9715c0e874dee94dfd2e8a61c9af"
+metafile = true
+
+[[files]]
+file = "mods/vertical-slabs-compat.pw.toml"
+hash = "3cd5320044d90e098a1313b0d7e0de27cb582da2c746b04227adb29f6e2b5f82"
 metafile = true
 
 [[files]]

@@ -15,16 +15,11 @@
     "base0": "#19181a",
     "base1": "#221f22",
     "base2": "#2d2a2e",
-    "red": "#ff6188"
+    "red": "#ad0104"
   },
   "progressBarHeight": 2,
   "progressBarSpeedDivision": 10,
-  "progressColors": [
-    "red",
-    "orange",
-    "yellow",
-    "green"
-  ],
+  "progressColors": ["red", "orange", "yellow", "green"],
   "progressTrackColor": "base0",
   "lineAmount": 200,
   "lineWidth": 100,
@@ -34,8 +29,8 @@
   "lineSpeedDifference": 4.0,
   "lineDirection": "LEFT",
   "lineColors": {
-    "red": 1,
-    "blue": 50,
+    "red": 50,
+    "blue": 1,
     "base2": 1000
   },
   "customSplashLines": [],
