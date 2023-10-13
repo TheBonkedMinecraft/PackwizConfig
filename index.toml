@@ -946,7 +946,7 @@ metafile = true
 
 [[files]]
 file = "mods/another-furniture.pw.toml"
-hash = "82a7535fae2844c327b9305daeef0a0de4e3c3044c14f3e8969b7f21ccd6792e"
+hash = "43384454eec899c2ef7e2c95a2bc5916792b9c885377b5485674bed373b41774"
 metafile = true
 
 [[files]]
@@ -1246,7 +1246,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "7282383f8bf77a7025f678353251856cc1d1999a72f7fe4ce5835a670dbbae76"
+hash = "eb9c6a3771dda6de23a6fb071494902f413a4f88bbb27447d9705bf4b1097267"
 metafile = true
 
 [[files]]
@@ -1261,7 +1261,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "8d1e45cdea6bb16c53496bc3b4d3504c933075c73084d294f8a57387f71e6d8b"
+hash = "17311c8148c846b880718d5368efdc7eb31e54ee4c0ab0f6e3fe466ea8af3a3d"
 metafile = true
 
 [[files]]
@@ -1471,7 +1471,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-windows.pw.toml"
-hash = "e80cf554466ccc875c78563c8d2e00eab5059f344b76c240f40c0fe2a07fff84"
+hash = "9abb08d6dd517cf27d4bd593472af2f34e1430bece800926984a91bffff00342"
 metafile = true
 
 [[files]]
@@ -1662,6 +1662,11 @@ metafile = true
 [[files]]
 file = "mods/roughly-enough-trades.pw.toml"
 hash = "253d24d518bf1c952361a25e91d1c80d0c30f83a47c8a94a05bdf8d51a6e97a9"
+metafile = true
+
+[[files]]
+file = "mods/selene.pw.toml"
+hash = "46e05f58ab48be6293111279cea2e1c45b65ced5cc3917819e9f3878461f137c"
 metafile = true
 
 [[files]]
