@@ -1,9 +1,0 @@
-name = "TieredZ"
-filename = "tiered-1.2.7.jar"
-side = "both"
-
-[download]
-url = "https://tbm-server.vercel.app/jar/tiered-1.2.7.jar"
-
-hash-format = "sha256"
-hash = "7794813ed45781a7e86fb76363bbbba263fb34f0863a79e03928a269acb26935"

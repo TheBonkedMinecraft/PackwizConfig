@@ -893,8 +893,8 @@ file = "jar/better-nether-7.1.4.jar"
 hash = "27bea23246551ea92fb9f742037919ef0e5a8dd8e390c217ab8bfbae00bada33"
 
 [[files]]
-file = "jar/dungeons-0.2.6-release.jar"
-hash = "d2f8f7f8f2e9d34e9f9bcc2ef51ebaf598aa3ac240a5a7e9d9bdd8416f4dee0f"
+file = "jar/dungeons-0.2.7-release.jar"
+hash = "b5ceb1260496ba9af173a9d6359bdfe8a2db734adc1e9b65e75fb5baa870869e"
 
 [[files]]
 file = "jar/enderscape-0.3.5-1.19.2.jar"
@@ -903,10 +903,6 @@ hash = "a9d1027e9497cbbb170511653f5a92d68d7f651f2b79b8e4ae9c1c2d640c8a6d"
 [[files]]
 file = "jar/rer-2.6.1.jar"
 hash = "13436830c10e87345e9f894cbe1a50b4be1ddbcf0808d83dac1d345c202ad698"
-
-[[files]]
-file = "jar/tiered-1.2.7.jar"
-hash = "7794813ed45781a7e86fb76363bbbba263fb34f0863a79e03928a269acb26935"
 
 [[files]]
 file = "jar/wraith-waystones-3.0.7+mc1.19.2.jar"
@@ -1726,7 +1722,7 @@ metafile = true
 
 [[files]]
 file = "mods/tbm-dungeons.pw.toml"
-hash = "10413701bf346d090f39ef8c98c5323b6c88b7cc226e8135a60db617d962e972"
+hash = "d245793e4dce7911b15d5a2934e1eab751147682364595f8f9b0e2deb81e737a"
 metafile = true
 
 [[files]]
@@ -1737,11 +1733,6 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "610281b70252ad2359481d23b9774418032aee99b72defae529c8b32c0166e13"
-metafile = true
-
-[[files]]
-file = "mods/tieredz.pw.toml"
-hash = "e960c0c339e6e72c88cada93918afa78d74efd7dbbba31f69441e675eb04cf6e"
 metafile = true
 
 [[files]]
@@ -1825,8 +1816,8 @@ hash = "719da66ac6adbf00ace4a021f1bfcd6aca271b16caa40629de9e73a79b844905"
 metafile = true
 
 [[files]]
-file = "mods/xxl-packets.pw.toml"
-hash = "2012d6ae3c84c7ac07e30e36c549cc80266d633f82ab6a709655ee5dbd863270"
+file = "mods/xl-packets-fabric.pw.toml"
+hash = "2c3859d6f191e9f1761b29fe6886635e0e84466681f0d526b08b16fa177a6a2f"
 metafile = true
 
 [[files]]
