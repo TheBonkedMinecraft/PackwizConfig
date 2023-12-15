@@ -498,7 +498,7 @@ hash = "c5eaad20fe616a152f55624b51d98d7e9c02e2eee36c9a28d38b7ef6dd8b64ee"
 
 [[files]]
 file = "config/everycomp-wood_types.json"
-hash = "93f6654b981c4b414868da00d016cf887a333666a17c7721af1b49d22fd82093"
+hash = "9afcc8621fa59fceb35473ae53a1b7a2da716e9775ac62d390ba39d3e69df737"
 
 [[files]]
 file = "config/explorerscompass.json"
@@ -865,50 +865,6 @@ file = "config/wondrouswilds.json"
 hash = "0d8b005beaf3a8be09fb8160e0b23b695ed4e260cde8b02af232edef95d34e45"
 
 [[files]]
-file = "jar/NumismaticCurrency-1.0.0.jar"
-hash = "dfc68d3a33bca6d7030e1e5ac2ed4e9e3c3f079bd877c6a3cdc2b008a6fb3e82"
-
-[[files]]
-file = "jar/OctoEconomyApi-1.1.0.jar"
-hash = "76edabfe92fe21cd43d37a115c0eea2951c7a17baf8a5e58a5a36fb2a5cb3536"
-
-[[files]]
-file = "jar/Oh_The_Biomes_You'll_Go-fabric-1.19.2-2.0.1.1.jar"
-hash = "42bc5d77829dd0b24a044c9eff4849cd142bf3a4bfb130c7d616307b2e752cab"
-
-[[files]]
-file = "jar/Structory-1.19-v1.3.jar"
-hash = "5aea3bce30a3fc3733a6bb492bd68acc2cbd80722a33ef549474484d6df5e7ab"
-
-[[files]]
-file = "jar/Structory_Towers_1.19_v1.0.1.jar"
-hash = "4c6d65e009d5ceda4996f92dd2b2d0935839ff775c37c7564b7b583e3c4b32ee"
-
-[[files]]
-file = "jar/better-end-2.1.5.jar"
-hash = "34bb240e1ec79c73890b70888972b043d88b5040506a5f5cf62f2ddb2cf39ddb"
-
-[[files]]
-file = "jar/better-nether-7.1.4.jar"
-hash = "27bea23246551ea92fb9f742037919ef0e5a8dd8e390c217ab8bfbae00bada33"
-
-[[files]]
-file = "jar/dungeons-0.2.7-release.jar"
-hash = "b5ceb1260496ba9af173a9d6359bdfe8a2db734adc1e9b65e75fb5baa870869e"
-
-[[files]]
-file = "jar/enderscape-0.3.5-1.19.2.jar"
-hash = "a9d1027e9497cbbb170511653f5a92d68d7f651f2b79b8e4ae9c1c2d640c8a6d"
-
-[[files]]
-file = "jar/rer-2.6.1.jar"
-hash = "13436830c10e87345e9f894cbe1a50b4be1ddbcf0808d83dac1d345c202ad698"
-
-[[files]]
-file = "jar/wraith-waystones-3.0.7+mc1.19.2.jar"
-hash = "404a1bd0a8130b4e7e0ee9f0ab2f4fe4fabe8f3d26d4c725ec76af5f00dc3067"
-
-[[files]]
 file = "kubejs/config/client.properties"
 hash = "0f767cee5496199c7497709aed21f9f70625cd9e62239884f9abdb89881e021e"
 
@@ -1242,7 +1198,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "eb9c6a3771dda6de23a6fb071494902f413a4f88bbb27447d9705bf4b1097267"
+hash = "afd4b48d7dfd08ebeff2adb202a821d10d534b30304a31cf1ac1df0068cef9ed"
 metafile = true
 
 [[files]]
@@ -1712,7 +1668,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "8dab797219b7e7127e1324a3e8f929d22017e90373c68aa8afda970f33b838dc"
+hash = "a2f4769176e36a4b5ddbd69532b4c5db332f7f1ecce7c851452f991dbeba6301"
 metafile = true
 
 [[files]]

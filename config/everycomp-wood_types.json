@@ -189,7 +189,7 @@
       "architects_palette.board_stairs": true,
       "mcwdoors.stable_head_door": true,
       "another_furniture.shelf": true,
-      "mcwwindows.plank_window": true,
+      "mcwwindows.plank_window": false,
       "mcwtrpdoors.ranch_trapdoor": true,
       "decorative_blocks.beam": true,
       "decorative_blocks.support": true,
@@ -261,7 +261,7 @@
       "mcwroofs.planks_lower_roof": true,
       "another_furniture.table": true,
       "mcwdoors.japanese_door": true,
-      "mcwwindows.window": true,
+      "mcwwindows.window": false,
       "mcwwindows.shutter": true,
       "mcwfences.pyramid_gate": true,
       "mcwfences.stockade_fence": true,
@@ -278,7 +278,7 @@
       "mcwtrpdoors.mystic_trapdoor": true,
       "another_furniture.chair": true,
       "mcwdoors.modern_door": true,
-      "mcwwindows.stripped_log_window": true
+      "mcwwindows.stripped_log_window": false
     }
   }
 }
