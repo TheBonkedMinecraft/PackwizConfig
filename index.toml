@@ -957,7 +957,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "b25059cd43f681fbd3447f29d355eda0ede4800b3b11cb680ca2889a92be180f"
+hash = "7916e9bf676dd9730f970893ff61fd25f43c563ff6133d1e7886366a3cd9e282"
 metafile = true
 
 [[files]]
@@ -1188,6 +1188,11 @@ metafile = true
 [[files]]
 file = "mods/deepslatecutting.pw.toml"
 hash = "0479206225a4fe784aa2866d422a0f9bad857a8c1ade89179d6626f812c4fbb8"
+metafile = true
+
+[[files]]
+file = "mods/do-api.pw.toml"
+hash = "423bb897ea956eb46108cd2d366036c75c1c93760b832b79731e0d3dca7b8306"
 metafile = true
 
 [[files]]
