@@ -1222,7 +1222,7 @@ metafile = true
 
 [[files]]
 file = "mods/emojiful.pw.toml"
-hash = "1be7718424d55624392272f9c6a6bb96dd72fba9543270e7f2c8a893a815a675"
+hash = "aeaf070cf8df274186baa1978ea5f83f611ae2d1ecdb7ac1d49731384531f030"
 metafile = true
 
 [[files]]
@@ -1864,7 +1864,3 @@ metafile = true
 file = "mods/yungs-better-witch-huts.pw.toml"
 hash = "14d7190f311125e364f288daabdcb92737164a26c9198a4e8901c718776f6fdd"
 metafile = true
-
-[[files]]
-file = "update.bash"
-hash = "bbd9bb7d29a3c67b38edfd634ad723688f5319976ed8757980c8904732dbebdb"
