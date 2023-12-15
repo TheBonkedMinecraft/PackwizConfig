@@ -1191,11 +1191,6 @@ hash = "0479206225a4fe784aa2866d422a0f9bad857a8c1ade89179d6626f812c4fbb8"
 metafile = true
 
 [[files]]
-file = "mods/do-api.pw.toml"
-hash = "423bb897ea956eb46108cd2d366036c75c1c93760b832b79731e0d3dca7b8306"
-metafile = true
-
-[[files]]
 file = "mods/dustrial-decor.pw.toml"
 hash = "321d91a48c60079500f68ab2741d955f5dedab4d36c904ad8f2c21dc4531682e"
 metafile = true
