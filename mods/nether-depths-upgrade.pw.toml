@@ -1,13 +1,14 @@
+# TODO: Add to self build chain
 name = "Nether Depths Upgrade"
-filename = "netherdepthsupgrade-fabric-3.1.1-1.19.2.jar"
+filename = "netherdepthsupgrade-fabric-3.0.0-1.19.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "fb11a1ee86bd12885db7acf8017a7786c50066d5"
+hash = "4a5d721c6fd89312fe0dba8993f7888d90260547"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4815047
+file-id = 4526779
 project-id = 670011
