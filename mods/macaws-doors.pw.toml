@@ -1,14 +1,13 @@
-# TODO: Add to self build chain
 name = "Macaw's Doors"
-filename = "mcw-doors-1.0.9fabric-mc1.19.2.jar"
+filename = "mcw-doors-1.1.0fabric-mc1.19.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f9b16338206d2e3cc1c3627cb7c538f03384fa94"
+hash = "99bd58013153f4eefdbe2b92b735e495f15f03fd"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4446168
+file-id = 4649884
 project-id = 378646
