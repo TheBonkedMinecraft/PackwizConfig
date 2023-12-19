@@ -1283,7 +1283,7 @@ metafile = true
 
 [[files]]
 file = "mods/fwaystones.pw.toml"
-hash = "577d6d70b5a7ab61e454ac05d0753bce12726499da97416025285f863308fc89"
+hash = "1cbd5692ed5fdafd35c1041e4630c36377fadac197480960e41be8a44fa7a14d"
 metafile = true
 
 [[files]]
@@ -1563,7 +1563,7 @@ metafile = true
 
 [[files]]
 file = "mods/professions.pw.toml"
-hash = "a76e272cd098f74a73e64d3017be7b40801aefb04b33d41f2e0693b8bca957bf"
+hash = "db6bd8a4619d13c850d6fb6a70c29aaf32157069eae838da50174dc002c72048"
 metafile = true
 
 [[files]]
@@ -1678,7 +1678,7 @@ metafile = true
 
 [[files]]
 file = "mods/tbm-dungeons.pw.toml"
-hash = "d245793e4dce7911b15d5a2934e1eab751147682364595f8f9b0e2deb81e737a"
+hash = "2b7da812904e2728260440ee0b6dc8893747a151f4872fcfe8f8632d9681c9fd"
 metafile = true
 
 [[files]]
@@ -1749,11 +1749,6 @@ metafile = true
 [[files]]
 file = "mods/visuality.pw.toml"
 hash = "151a53057bd6f757ff073dd8f8344b354f872f0dc4d236daad3fffea5de0b7dc"
-metafile = true
-
-[[files]]
-file = "mods/waystones.pw.toml"
-hash = "e61c296aa297779459086a93d9cb8eb2528541b78cdee90c8cb1ff2ee83fa06a"
 metafile = true
 
 [[files]]
