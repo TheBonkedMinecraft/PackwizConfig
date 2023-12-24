@@ -20,7 +20,7 @@ version = 3
 # 
 defaultGlobalExecutorParallelismExpression = "default"
 # (Default: 2) Configures the parallelism of global executor
-globalExecutorParallelism = "default"
+globalExecutorParallelism = 1
 
 [clientSideConfig]
 
@@ -36,10 +36,10 @@ globalExecutorParallelism = "default"
 	compatibilityMode = "default"
 	# (Default: false) Whether to ensure correct chunks within normal render distance 
 	#  This will send chunks twice increasing network load
-	ensureChunkCorrectness = "default"
+	ensureChunkCorrectness = false
 	# (Default: 12) No-tick view distance updates per tick 
 	#  Lower this for a better latency and higher this for a faster loading
-	updatesPerTick = "default"
+	updatesPerTick = 20
 	# (Default: true) Whether to enable no-tick view distance
 	enabled = "default"
 
@@ -52,7 +52,7 @@ globalExecutorParallelism = "default"
 	#  
 	# Incompatible with Dimensional Threading (dimthread)
 	# 
-	doMidTickChunkTasks = "default"
+	doMidTickChunkTasks = false
 	# (Default: true) Whether to let async chunk request no longer block server thread
 	# (may cause incompatibility with other mods)
 	optimizeAsyncChunkRequest = "default"
@@ -107,7 +107,7 @@ globalExecutorParallelism = "default"
 	# (may cause incompatibility with other mods)
 	reduceLockRadius = "default"
 	# (Default: false) Whether to enable this feature
-	enabled = true
+	enabled = false
 
 [vanillaWorldGenOptimizations]
 	# (Default: true) Whether to enable aquifer optimizations to accelerate overworld worldgen

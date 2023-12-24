@@ -382,7 +382,7 @@ hash = "ecbb52d41e7264f312f2c8416d3768521d7734eb6708da700092896b6cfd064d"
 
 [[files]]
 file = "config/c2me.toml"
-hash = "2a12a636ff6437753491b7f74fd225ff5727d2b39eda6b5764cddae5ddbcdf85"
+hash = "4b49e809755a09c967a4b9839035858f2af11a0852b99987875098183b891602"
 
 [[files]]
 file = "config/capybara.json"
@@ -542,7 +542,7 @@ hash = "321b1321f3ed05cf88e162c94e5dce3086094155c96c7e97e0daa760814ab8d4"
 
 [[files]]
 file = "config/fwaystones/config.json5"
-hash = "918a0b247b0c3e26e3e1ca48569910e271b1fd59b0ca1ce5dabd9a9872edef49"
+hash = "1597dc1ccb7649a1d027890ecf351e4053dec1e7d2ce9b7cb164fa1be41c2303"
 
 [[files]]
 file = "config/goodall.json"
@@ -1003,7 +1003,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "d0faea9c2424906291c80e9e5464d05a070858c6c88f668dcdb993ac438d7a20"
+hash = "e2efee228d951bde49b855804024bc98cb103168ca050dbbb1af2773051ad9a3"
 metafile = true
 
 [[files]]
