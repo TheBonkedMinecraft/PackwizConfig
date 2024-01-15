@@ -396,7 +396,7 @@
 	#Players do NOT need to be holding a Totem of Preserving.
 	"Grave mode" = true
 	#If true, only the owner of the totem may pick it up.
-	"Owner only" = true
+	"Owner only" = false
 	#Mobs that have a chance to drop a totem of preserving.
 	#This does not apply if Grave mode is true.
 	"Mobs drop totems" = []
@@ -406,7 +406,7 @@
 	#If true, the totem will preserve the player's experience and restore when broken.
 	"Preserve XP" = false
 	#If true, the coordinates where you died will be added to the player's chat screen.
-	"Show death position" = false
+	"Show death position" = true
 
 [VariantMobTextures]
 	#If true, cows may spawn with different textures.

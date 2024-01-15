@@ -398,7 +398,7 @@ hash = "a1841d4e9d82126db89b205ac363478a3e3c3d1017e721a1b13a85a421325380"
 
 [[files]]
 file = "config/charm.toml"
-hash = "84a10069a1bd14ae0e90e0ad5ad291735cc75893e8e7ec2b602532b484ed6653"
+hash = "5a3817258785ce4853cfa202cbdb8b384bd8ca84fa37623b8ecdc3c4bcf92147"
 
 [[files]]
 file = "config/chat_heads.json5"
@@ -817,14 +817,6 @@ file = "config/sodium-options.json"
 hash = "3b01094400618f74596b9a3d0a5b60082e67bbb75174b592cd1393905584a8a7"
 
 [[files]]
-file = "config/spark/activity.json"
-hash = "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
-
-[[files]]
-file = "config/spark/config.json"
-hash = "40f003598fc382e50da55203b813a636f75abaddf8c77d72951be72bffa2d56a"
-
-[[files]]
 file = "config/supplementaries-client.json"
 hash = "0cb0e9372104cbf4c3cc54ed9d9f964b4d32f4112e2a60a44d2e8312023f7db1"
 
@@ -953,7 +945,7 @@ metafile = true
 
 [[files]]
 file = "mods/bclib.pw.toml"
-hash = "dc2788256255373ea9ea76e4e55b118fd49796d36d92bc028a388958739d6d2a"
+hash = "7dfb36ec14fa04a295d29faea1f7a8f0ea1863f38f8ebeb0b6b44a34c1e83a10"
 metafile = true
 
 [[files]]
@@ -1198,7 +1190,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "afd4b48d7dfd08ebeff2adb202a821d10d534b30304a31cf1ac1df0068cef9ed"
+hash = "55c4ad9172e8e20ae17179b998819134d3bbcc50713dde1ec723dfed348d3ecf"
 metafile = true
 
 [[files]]
@@ -1418,7 +1410,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-trapdoors.pw.toml"
-hash = "9f6b7e463b81fcf49da659565fab49015fb371b457cdbb05f3443032014edb3a"
+hash = "df084a3cd6cfbdac34afff4dfce3a101c76264315ba446179887d0a9e23dc17f"
 metafile = true
 
 [[files]]
@@ -1442,11 +1434,6 @@ hash = "077e55cc2dacafec501a826cae7028fa38de59f5daf71c1b7658afb583e17ea7"
 metafile = true
 
 [[files]]
-file = "mods/memoryleakfix.pw.toml"
-hash = "97ffbc7d0e4087777c5e3732780f01958f99d44c4f09fd534bbb8f239d4980a1"
-metafile = true
-
-[[files]]
 file = "mods/minihud.pw.toml"
 hash = "ec2e01258ac91cd8a753b776bfe1e01ad7dacfedbbff19fb4eec779bb10cf4aa"
 metafile = true
@@ -1463,7 +1450,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "90f8d140be45787ddb039f62015362d54ead182ef6c40761067db709e1d349be"
+hash = "426b01481aceca23494ba26bfcfef06e0c2e8ddfac83221570ddaca244afa799"
 metafile = true
 
 [[files]]
@@ -1512,11 +1499,6 @@ hash = "1d93acb8fe0f4afc330701c2bb19e30ee91e54426b7c8ffca6e7c53bdecac9d0"
 metafile = true
 
 [[files]]
-file = "mods/octo-economy-api.pw.toml"
-hash = "c2a43529d1f1702bbf7614b71242d10ffe88ea6dd76497b1e7dfdcc360765dc6"
-metafile = true
-
-[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "d6a99e144be13fb3d0865925bf73357a2ff82f4114929cc2f35930eb21f3c7e9"
 metafile = true
@@ -1553,7 +1535,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymorph.pw.toml"
-hash = "5b10d97c237eb22fe591c9bd1fa8cd70265e7682b2c02c837a21a66496498f61"
+hash = "4a362e60bced90553a9eee9717e1a2b7cc3537b1c16e6ca9f423562062a46b68"
 metafile = true
 
 [[files]]
@@ -1563,7 +1545,7 @@ metafile = true
 
 [[files]]
 file = "mods/professions.pw.toml"
-hash = "db6bd8a4619d13c850d6fb6a70c29aaf32157069eae838da50174dc002c72048"
+hash = "ea44f0c73ff725f2f5037160a0a9ff61e2a4a4f79857ee9cb391e49badfa9cd1"
 metafile = true
 
 [[files]]
@@ -1637,11 +1619,6 @@ hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
 metafile = true
 
 [[files]]
-file = "mods/spark.pw.toml"
-hash = "245599aeee8c2497af5588bcf1430a2753c9cd4827b7c8891dfbe9c578405038"
-metafile = true
-
-[[files]]
 file = "mods/starlight.pw.toml"
 hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
 metafile = true
@@ -1668,7 +1645,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "a2f4769176e36a4b5ddbd69532b4c5db332f7f1ecce7c851452f991dbeba6301"
+hash = "b077eceed8adffd07f52209f43e3549f4f3b9324be323d038bca269626620dea"
 metafile = true
 
 [[files]]
@@ -1678,7 +1655,7 @@ metafile = true
 
 [[files]]
 file = "mods/tbm-dungeons.pw.toml"
-hash = "2b7da812904e2728260440ee0b6dc8893747a151f4872fcfe8f8632d9681c9fd"
+hash = "525a4f2de5953d25ba3060df3710c186e7360e423cd68a792bded5ddf2879dc8"
 metafile = true
 
 [[files]]

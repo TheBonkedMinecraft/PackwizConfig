@@ -1,13 +1,13 @@
 name = "The Bonked Minecraft"
 author = "slowest____side"
-version = "0.1.3"
+version = "0.1.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d223dda64ba85282973bf22b455da4ee78c9c5a712050da0287f7f313c8bdbd5"
+hash = "3262d38a95ba61dfea08cfa49c11229f201a543091bca9073047f5aaae121533"
 
 [versions]
-fabric = "0.14.21"
+fabric = "0.14.25"
 minecraft = "1.19.2"
