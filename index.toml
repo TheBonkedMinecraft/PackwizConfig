@@ -1655,7 +1655,7 @@ metafile = true
 
 [[files]]
 file = "mods/tbm-dungeons.pw.toml"
-hash = "525a4f2de5953d25ba3060df3710c186e7360e423cd68a792bded5ddf2879dc8"
+hash = "d54101146c9717d9476367e794a71a3323678e10e46d52d211cefa603efa61fb"
 metafile = true
 
 [[files]]

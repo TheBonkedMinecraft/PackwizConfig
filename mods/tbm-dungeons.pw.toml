@@ -1,9 +1,9 @@
 name = "TBMDungeons"
-filename = "dungeons-0.3.0-release.jar"
+filename = "dungeons-0.3.1-release.jar"
 side = "both"
 
 [download]
-url = "https://tbm-server.vercel.app/jar/dungeons-0.3.0-release.jar"
+url = "https://tbm-server.vercel.app/jar/dungeons-0.3.1-release.jar"
 
 hash-format = "sha256"
-hash = "169fdc062bb9ba0fb39a69327f5a9ed7feecf0657a15d145e0f10158b2146629"
+hash = "53c17fcf822572e82eb116e5f27dc4e68342c7a75d3cc03f081f3b00cf24448f"
