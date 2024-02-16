@@ -1204,6 +1204,11 @@ hash = "afd48f0c63f1c56e1af9cefc3c215d7ae9ca3c37c77897b707de7f52ad6e7b48"
 metafile = true
 
 [[files]]
+file = "mods/exposure.pw.toml"
+hash = "aac398dc8f64262746502fc286ab2a6a64aeb841fcdd527c4a2de747a465db64"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "17311c8148c846b880718d5368efdc7eb31e54ee4c0ab0f6e3fe466ea8af3a3d"
 metafile = true
