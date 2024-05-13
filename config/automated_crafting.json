@@ -1,5 +1,5 @@
 {
-  "simple_mode": false,
+  "simple_mode": true,
   "quasi_connective": true,
   "redirect_redstone": true,
   "craft_continuously": true,
